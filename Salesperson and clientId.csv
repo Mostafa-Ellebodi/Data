@@ -1,0 +1,1001 @@
+SalesPersonId,SalespersonName,clientId,City,Postal Code
+11,Scott  Spencer,5206,Oshawa,L1H 4M3
+11,Scott  Spencer,5218,Orangeville,M1K 4J7
+11,Scott  Spencer,5219,Mono,L9W N5P3
+11,Scott  Spencer,5222,Whitby,L1R 2H2
+11,Scott  Spencer,5226,Pickering,L1X 1A7
+11,Scott  Spencer,5228,Stouffville,L4A 7X3
+11,Scott  Spencer,5236,Thornhill,L4J 3A7
+11,Scott  Spencer,5237,Georgina,L4P 2Z3
+11,Scott  Spencer,5239,Toronto,M1J 2A9
+11,Scott  Spencer,5245,Oshawa,L1K 2K7
+11,Scott  Spencer,5266,Toronto,M6S 2X6
+11,Scott  Spencer,5271,Toronto,M8W 1A8
+11,Scott  Spencer,5289,Stouffville,L4A 5A6
+11,Scott  Spencer,5298,Georgrina,L0E 1R0
+11,Scott  Spencer,5317,Brampton,L6V 1K60
+11,Scott  Spencer,5320,Oakville,L6M 4W7
+11,Scott  Spencer,5322,Mississauga,L5A 4B5
+11,Scott  Spencer,5326,Toronto,M6N 3L1
+11,Scott  Spencer,5328,Scarborough,M1P 3K2
+11,Scott  Spencer,5329,Keswick,2154
+11,Scott  Spencer,5330,Toronto,M1E 3G8
+11,Scott  Spencer,5331,Maple,L6A 3H6
+11,Scott  Spencer,5336,Scarborough,M4E 3S2
+11,Scott  Spencer,5338,Markham,L3P 1N6
+11,Scott  Spencer,5345,Oshawa,L1K 1S2
+11,Scott  Spencer,5347,Newmarket,L3X 2C3
+11,Scott  Spencer,5357,Aurora,L4G 3A5
+11,Scott  Spencer,5358,Whitby,L1R 2B4
+11,Scott  Spencer,5359,Georgina,L0E 1R0
+11,Scott  Spencer,5362,Aurora,L4G 2L9
+11,Scott  Spencer,5371,Markham,L3S 3W5
+11,Scott  Spencer,5372,Oshawa,L1J 1H1
+11,Scott  Spencer,5376,Toronto,M1B 1S6
+11,Scott  Spencer,5382,Toronto,
+11,Scott  Spencer,5383,Markhaqm,L3c 3C1
+11,Scott  Spencer,5395,Toronto,M1R 2M2
+11,Scott  Spencer,5398,Ajax,
+11,Scott  Spencer,5403,Bowmanville,L1C 4K9
+11,Scott  Spencer,5411,Ajax,L1T 3T2
+11,Scott  Spencer,5412,Ajax,L1Z 1H9
+11,Scott  Spencer,5413,Oshawa,L1J 4C2
+11,Scott  Spencer,5425,Toronto,M5P 2X5
+11,Scott  Spencer,5430,Oshawa,L1H 5R9
+11,Scott  Spencer,5431,Richmond Hill,L4B 4H8
+11,Scott  Spencer,5432,Oshawa,L1J 7C1
+11,Scott  Spencer,5433,Courtice,L1E 2M6
+11,Scott  Spencer,5441,Oshawa,L1H 6R7
+11,Scott  Spencer,5461,Pickering,L1V 1N7
+11,Scott  Spencer,5462,WHitby,L1N 9R7
+11,Scott  Spencer,5472,Lindsay,K9V 3N9
+11,Scott  Spencer,5473,New Castle,L1B 1L9
+11,Scott  Spencer,5496,Ajax,L1Z 1H9
+11,Scott  Spencer,5504,New Castle, L1B 1J5
+11,Scott  Spencer,5505,Bowmanville,L1C 4X1
+11,Scott  Spencer,5521,Oshawa,L1H 7G1
+11,Scott  Spencer,5522,Ajax,L1T 3V4
+11,Scott  Spencer,5550,Whitby,L1R 1N5
+11,Scott  Spencer,5551,Bowmanville,L1C 2A6
+11,Scott  Spencer,5573,Whitby,L1N 7G1
+11,Scott  Spencer,5581,Courtise,L1E 2Y3
+11,Scott  Spencer,5594,Courtice,L1E 1X2
+11,Scott  Spencer,5617,Lakefield,K0L 2H0
+11,Scott  Spencer,5630,Oshawa,L1J 5N8
+11,Scott  Spencer,5631,Pickering,L1X 2G5
+11,Scott  Spencer,5632,Oshawa,L1J 7B4
+11,Scott  Spencer,5637,Bowmanville,L1C 3P1
+11,Scott  Spencer,5640,Oshawa,L1G 5X2
+11,Scott  Spencer,5641,Scarborough,M1X 2B8
+11,Scott  Spencer,5643,Scarborough,M1L 1A1
+11,Scott  Spencer,5663,Oshawa,L1G 2Y6
+11,Scott  Spencer,5673,Litle Britan,K0M 2C0
+11,Scott  Spencer,5674,Pickering,L1X 2L5
+11,Scott  Spencer,5694,Oshawa,L1H 3H8
+11,Scott  Spencer,5697,Scarborogh,M1C 2S2
+11,Scott  Spencer,5704,Courtice,L1E 1B5
+11,Scott  Spencer,5709,Bowmanville,
+11,Scott  Spencer,5710,Brampton,L6S 3E9
+11,Scott  Spencer,5711,Peterborough,K9K 1K4
+11,Scott  Spencer,5725,Toronto,M2N 6P4
+11,Scott  Spencer,5731,Courtice,L1E 2H4
+11,Scott  Spencer,5732,Brooklin,L1M 1G5
+11,Scott  Spencer,5737,New Castle,L1B 1K5
+11,Scott  Spencer,5741,Toronto,M4J 4P3
+11,Scott  Spencer,5774,Whitby,L1N 8B2
+11,Scott  Spencer,5790,Centennial,L1G 3H8
+11,Scott  Spencer,5799,Whitby,L1N 9V6
+11,Scott  Spencer,5800,Pickering,L1W 3P4
+11,Scott  Spencer,5813,Scarborough,M1N 3P1
+11,Scott  Spencer,5827,Whitby,L1P 1S4
+11,Scott  Spencer,5828,Scarborough,M1T 1E6
+11,Scott  Spencer,5829,Toronto,M1T 1E6
+11,Scott  Spencer,5830,Ajax,L1T 4A3
+11,Scott  Spencer,5845,Oshawa,L1H 1Z9
+11,Scott  Spencer,5846,Warkworth,K0K 3K0
+11,Scott  Spencer,5863,Whitby,L1R 3G2
+11,Scott  Spencer,5875,Scarborouhg,M1J 3M7
+11,Scott  Spencer,5876,Oshawa,
+11,Scott  Spencer,5877,Pickering,L1V 4W9
+11,Scott  Spencer,5883,Port Rerry,L9L 1B6
+11,Scott  Spencer,5891,Port Perry,L9L 1B2
+11,Scott  Spencer,5892,Courtice,L1E 2A7
+11,Scott  Spencer,5898,Whitby,L1S 1E7
+11,Scott  Spencer,5899,Ajax,L1Z 1B8
+11,Scott  Spencer,5900,Toronto,
+11,Scott  Spencer,5915,Ajax,L1T 3Z6
+11,Scott  Spencer,5936,Whitby,L1R 1G8
+11,Scott  Spencer,5944,Bowmanville,L1C 3K4
+11,Scott  Spencer,5970,Oshawa,L1G 6H2
+11,Scott  Spencer,5979,Peterborough,K9S 4W2
+11,Scott  Spencer,5993,Pickering,L1V 3G1
+11,Scott  Spencer,6003,Whitby,L1N 6T3
+11,Scott  Spencer,6006,Peterborough,K9J 4K7
+11,Scott  Spencer,6037,Peterborough,K9J 1N1
+11,Scott  Spencer,6038,Millbrook,L0A 1G0
+11,Scott  Spencer,6042,Ajax,L1S 1N2
+11,Scott  Spencer,6043,Pickering,L1W 1G3
+12,Nelson  Buceta,8105,Welland,L3C 7E9
+11,Scott  Spencer,6047,Ajax,L1T 4C4
+11,Scott  Spencer,6054,Whitby,L1R 1E2
+11,Scott  Spencer,6059,Pickering,L1V 4W6
+11,Scott  Spencer,6070,Pickering,L1V 6N9
+11,Scott  Spencer,6071,Pickering,L1V 5K4
+11,Scott  Spencer,6082,Whitby,L1P 1L2
+11,Scott  Spencer,6088,Pickering,L1V 6W3
+11,Scott  Spencer,6098,Whitby,L1R 1G8
+11,Scott  Spencer,6103,Ajax,L1S 6Y7
+11,Scott  Spencer,6121,Pickering,L1W 3B1
+11,Scott  Spencer,6140,Whitby,L1R 1X2
+11,Scott  Spencer,6142,Newtonville,L1B 1L9
+11,Scott  Spencer,6143,Ajax,L1T 4A3
+11,Scott  Spencer,6148,Whitby,L1R 2E2
+11,Scott  Spencer,6152,Ajax,L1T 3Z6
+11,Scott  Spencer,6158,Haydon,L1C 3K2
+11,Scott  Spencer,6165,Ajax,L1S 2R2
+11,Scott  Spencer,6174,Pickering,L1V 3B8
+11,Scott  Spencer,6175,Pickering,L1V 6Z1
+11,Scott  Spencer,6178,Whitby,L1N 6L6
+11,Scott  Spencer,6179,Ajax,L1T 3V8
+11,Scott  Spencer,6195,Courtice,L1E 2E1
+11,Scott  Spencer,6196,Whitby,L1N 3R3
+11,Scott  Spencer,6200,Courtice,L1E 3H5
+11,Scott  Spencer,6208,Pickering,L1W 2M7
+11,Scott  Spencer,6224,Pickering,L1V 1X9
+11,Scott  Spencer,6228,Ajax,L1S 1C3
+11,Scott  Spencer,6237,Whitby,L1R 3B3
+11,Scott  Spencer,6238,WHITBY,M6E 3P2
+11,Scott  Spencer,6241,Oshawa,M5T 2L8
+11,Scott  Spencer,6260,Pickering,L1X 2T5
+11,Scott  Spencer,6268,Stouffville,L4A 1K9
+11,Scott  Spencer,6281,Ajax,L1S 7B4
+11,Scott  Spencer,6295,Courtice,L1E 2E1
+11,Scott  Spencer,6296,Bowmanville,L1C 4Y1
+11,Scott  Spencer,6305,Whitby,L1R 1N5
+11,Scott  Spencer,6306,Oshawa,L1J 2M5
+11,Scott  Spencer,6307,Ajax,L1S 3R7
+11,Scott  Spencer,6312,Oshawa,L1K 2A4
+11,Scott  Spencer,6313,Markham,L3S 3Z2
+11,Scott  Spencer,6321,Courtice,L1E 1N2
+11,Scott  Spencer,6322,Oshawa,L1K 2M7
+11,Scott  Spencer,6325,Ajax,L1S 6G8
+11,Scott  Spencer,6326,Ajax,L1T 1V7
+11,Scott  Spencer,6327,Ajax,L1S 1B6
+11,Scott  Spencer,6330,Whitby,L1N 9R4
+11,Scott  Spencer,6332,Oshawa,L1G 7L8
+11,Scott  Spencer,6340,Whitby,L1R 1S7
+11,Scott  Spencer,6342,Whitby,L36 1TJ
+11,Scott  Spencer,6354,Whitby,L1P 1J3
+11,Scott  Spencer,6365,Oshawa,L1H 6T2
+12,Nelson  Buceta,6372,Brampton,L6X 4L2
+11,Scott  Spencer,6379,Bowmanville,L1C 3K7
+12,Nelson  Buceta,6383,Scarborough,M1J 1S5
+11,Scott  Spencer,6385,Ajax,L1Z 1H5
+12,Nelson  Buceta,6389,Brampton,L6R 2G5
+11,Scott  Spencer,6391,Courtice,L1E 2W6
+12,Nelson  Buceta,6397,Thornhill,L4J 2W5
+11,Scott  Spencer,6398,Ajax,L1S 6Z3
+12,Nelson  Buceta,6416,Ajax,L1T 3R1
+12,Nelson  Buceta,6419,Barrie,L4N 6Y5
+11,Scott  Spencer,6420,Whitby,L1R 2M7
+11,Scott  Spencer,6422,Hampton,L0B 1J0
+11,Scott  Spencer,6435,Oshawa,L1J 2M6
+11,Scott  Spencer,6437,Whitby,L1R 1G8
+11,Scott  Spencer,6438,Ajax,L1T 3V6
+11,Scott  Spencer,6448,Oshawa,L1G 2Y9
+11,Scott  Spencer,6451,Courtice,L1E 2E1
+11,Scott  Spencer,6452,Ajax,L1E 2E1
+11,Scott  Spencer,6454,Markham,L6B 1K9
+12,Nelson  Buceta,6458,Oakville,L6H 2Z4
+12,Nelson  Buceta,6468,Mississauga,L5N 7S4
+11,Scott  Spencer,6474,Oshawa,L1L 0C2
+12,Nelson  Buceta,6475,Mississauga,L5L 4M9
+12,Nelson  Buceta,6478,Mississauga,L5R 1Z7
+11,Scott  Spencer,6487,Whitby,L1N 9R9
+11,Scott  Spencer,6488,Whitby,L1N 4A2
+11,Scott  Spencer,6494,Pickering,L1X 2L8
+11,Scott  Spencer,6496,Courtice,L1E 1Y3
+11,Scott  Spencer,6497,Uxbridge,L9P 1Z6
+11,Scott  Spencer,6499,Courtice,
+12,Nelson  Buceta,6500,Stayner,L0M 1S0
+11,Scott  Spencer,6502,Ajax,L1S 6Z3
+11,Scott  Spencer,6504,Whitby,L1R 1K2
+12,Nelson  Buceta,6510,Woodbridge,L4L 8P2
+12,Nelson  Buceta,6511,Gormley,L0H 1G0
+11,Scott  Spencer,6512,Ajax,L1T 3J8
+12,Nelson  Buceta,6519,North York,M6L 1L8
+11,Scott  Spencer,6522,Oshawa,L1J 7Z3
+11,Scott  Spencer,6524,Pickering,L1V 5N3
+12,Nelson  Buceta,6527,Toronto,M6E 2P5
+12,Nelson  Buceta,6528,Scarborough,M1C 2K7
+12,Nelson  Buceta,6531,Richmond Hill,L4E 4E2
+11,Scott  Spencer,6532,Ajax,L1S 4T8
+11,Scott  Spencer,6533,Pickering,L1V 4R2
+12,Nelson  Buceta,6537,Scarborough,M1C 1Y5
+11,Scott  Spencer,6540,Ajax,L1S 3Z6
+12,Nelson  Buceta,6543,Kleinburg,
+12,Nelson  Buceta,6551,Burlington,L7P 0K2
+12,Nelson  Buceta,6552,Scarborough,M1E 1W6
+11,Scott  Spencer,6555,Newtonville,L0A 1J0
+11,Scott  Spencer,6556,Brooklin,L1M 2G5
+11,Scott  Spencer,6558,Pickering,L1V 5X7
+11,Scott  Spencer,6559,Courtice,
+11,Scott  Spencer,6560,Whitby,L1N 8E5
+12,Nelson  Buceta,6584,Mississauga,L5L 4E3
+12,Nelson  Buceta,6585,Mississauga,L5L 4C6
+12,Nelson  Buceta,6590,Mississauga,L5N 7K3
+11,Scott  Spencer,6593,Courtice,L1E 1M4
+12,Nelson  Buceta,6595,Mississauga,L5L 1S3
+11,Scott  Spencer,6596,Pickering,
+12,Nelson  Buceta,6600,Scarborough,M1K 2K5
+12,Nelson  Buceta,6608,Mississauga,
+12,Nelson  Buceta,6614,Brampton,L6V 3M3
+12,Nelson  Buceta,6615,Etobicoke,L4C 6V2
+11,Scott  Spencer,6618,Oshawa,L1G 6L5
+11,Scott  Spencer,6624,Newcastle,L1B 1B9
+11,Scott  Spencer,6629,Courtice,L1E 1Z4
+11,Scott  Spencer,6630,Courtice,
+12,Nelson  Buceta,6636,Brampton,L6S 3X4
+12,Nelson  Buceta,6637,Mississauga,
+11,Scott  Spencer,6638,Scarborough,M1M 2G6
+11,Scott  Spencer,6647,Whitby,L1R 3B2
+11,Scott  Spencer,6654,Orono,
+11,Scott  Spencer,6655,Courtice,L1E 3A6
+11,Scott  Spencer,6656,Whitby,L1N 6K8
+11,Scott  Spencer,6660,Brooklin,L1M 1K6
+11,Scott  Spencer,6664,Courtice,L1E 2Y9
+12,Nelson  Buceta,6665,Bolton,L7E 1S4
+12,Nelson  Buceta,6666,Etobicoke,M9W 2T3
+12,Nelson  Buceta,6667,Mississauga,L5N 3V9
+11,Scott  Spencer,6686,Courtice,L1E 2E6
+12,Nelson  Buceta,6687,Scarborough,M1E 1K2
+11,Scott  Spencer,6689,Oshawa,
+12,Nelson  Buceta,6692,Brampton,L6R 2L4
+12,Nelson  Buceta,6694,Mississauga,L5B 4N8
+11,Scott  Spencer,6696,Courtice,
+11,Scott  Spencer,6698,Whitby,L1R 1W2
+11,Scott  Spencer,6700,Scarborough,M1C 4K5
+12,Nelson  Buceta,6702,Burlington,L7R 2B7
+12,Nelson  Buceta,6703,Brampton,L6S 1K2
+11,Scott  Spencer,6704,Bowmanville,L1C 4Y1
+11,Scott  Spencer,6705,Blackstock,L0B 1B0
+12,Nelson  Buceta,6710,Brampton,L6P 2K5
+12,Nelson  Buceta,6712,North York,M2J 2X7
+12,Nelson  Buceta,6716,Mississauga,L5N 6S9
+12,Nelson  Buceta,6718,Mississauga,
+11,Scott  Spencer,6726,Bowmanville,L1C 4S6
+11,Scott  Spencer,6727,Ajax,L1Z 1Y1
+11,Scott  Spencer,6729,Oshawa,L1G 7H2
+11,Scott  Spencer,6744,Whitby,L1P 1M6
+11,Scott  Spencer,6750,Oshawa,L1J 2A9
+11,Scott  Spencer,6759,Ajax,L1Z 1R2
+11,Scott  Spencer,6760,Courtice,L1E 3H1
+12,Nelson  Buceta,6762,Mississauga,L5H 4A7
+12,Nelson  Buceta,6766,Toronto,M1T 3V7
+12,Nelson  Buceta,6767,Mississauga,L5N 8M2
+11,Scott  Spencer,6777,Newcastle,L1B 1H3
+11,Scott  Spencer,6781,Scarborough,M1C 3X7
+12,Nelson  Buceta,6782,Mississauga,L5V 2S3
+12,Nelson  Buceta,6783,Brampton,L7A 1J4
+11,Scott  Spencer,6788,Oshawa,
+11,Scott  Spencer,6789,Oshawa,L1G 5H6
+11,Scott  Spencer,6792,Claremont,L1Y 1A2
+11,Scott  Spencer,6796,Whitby,L1P 1C9
+11,Scott  Spencer,6801,Oshawa,L1J 4R9
+12,Nelson  Buceta,6804,Scarborough,M1G 2P4
+11,Scott  Spencer,6817,Courtice,L1E 3G5
+11,Scott  Spencer,6818,Ajax,L1S 7H6
+11,Scott  Spencer,6819,Courtice,L1E 1Z2
+11,Scott  Spencer,6820,Oshawa,L1G 8B3
+11,Scott  Spencer,6821,Pickering,L1W 2M8
+11,Scott  Spencer,6823,Courtice,L1E 1P4
+11,Scott  Spencer,6825,Bowmanville,L1C 4S3
+11,Scott  Spencer,6832,Newcastle,L1B 1L9
+11,Scott  Spencer,6833,Courtice,
+12,Nelson  Buceta,6838,Kitchener,N2M 4R9
+12,Nelson  Buceta,6842,Mississauga,L5M 3M3
+11,Scott  Spencer,6843,Bowmanville,
+11,Scott  Spencer,6844,Oshawa,L1K 1Y4
+11,Scott  Spencer,6850,Pickering,L1W 2J2
+11,Scott  Spencer,6851,Pickering,L1V 4N1
+12,Nelson  Buceta,6853,Streetsville,M5V 2A2
+11,Scott  Spencer,7192,Whitby,L1R 3R3
+11,Scott  Spencer,6858,Oshawa,L1J 6Z4
+12,Nelson  Buceta,6868,Mississauga,
+11,Scott  Spencer,6879,Oshawa,M4R 1C1
+11,Scott  Spencer,6882,Oshawa,L1J 5C7
+12,Nelson  Buceta,6883,Brampton,L6S 6C5
+12,Nelson  Buceta,6884,Brampton,L6S 6C3
+12,Nelson  Buceta,6885,Brantford,N3R 4G4
+11,Scott  Spencer,6889,Bowmanville,L1C 2G9
+12,Nelson  Buceta,6893,Hamilton,L8K 4Y6
+12,Nelson  Buceta,6908,Brantford,N3R 2S5
+12,Nelson  Buceta,6909,Milton,L9T 6E4
+11,Scott  Spencer,6910,Uxbridge,L0C 1A0
+11,Scott  Spencer,6911,Courtice,L1E 2S1
+11,Scott  Spencer,6916,Oshawa,L1L 1C6
+11,Scott  Spencer,6917,Ajax,L1S 5E8
+11,Scott  Spencer,6920,Markham,L3P 2H9
+12,Nelson  Buceta,6921,Hamilton,L8L3k6
+11,Scott  Spencer,6927,Ajax,L1T 2K7
+11,Scott  Spencer,6928,Bowmanville,L1C 3H1
+11,Scott  Spencer,6941,Pickering,L1W 3K4
+12,Nelson  Buceta,6936,Toronto,M4J 1G8
+12,Nelson  Buceta,6937,Hamilton,L8T 2M9
+12,Nelson  Buceta,6938,Brantford,N3P 1A5
+11,Scott  Spencer,6699,Scarborough,M1C 4K5
+12,Nelson  Buceta,6717,Guelph,N1L 1N3
+11,Scott  Spencer,6557,Pickering,L1V 3N2
+11,Scott  Spencer,6951,Oshawa,L1G 4N8
+12,Nelson  Buceta,6952,Mississauga,L5K 1E8
+12,Nelson  Buceta,6957,"Mississauga,",L5R 1R5
+12,Nelson  Buceta,6958,Hamilton,L8W 3A8
+12,Nelson  Buceta,6967,Old Toronto,
+11,Scott  Spencer,6968,Whitby,L1N 3V3
+12,Nelson  Buceta,6970,Hamilton,L8K 2W7
+11,Scott  Spencer,6973,Lindsay,K9V 4R6
+11,Scott  Spencer,6980,Ajax,L1S 3X7
+11,Scott  Spencer,6985,Whitby,L1N 5B5
+11,Scott  Spencer,6988,Whitby,L1P 1N8
+11,Scott  Spencer,6993,Whitby,L1R 2L6
+11,Scott  Spencer,7003,Whitby,L1R 1K2
+11,Scott  Spencer,7004,Whitby,L1N 5Y3
+12,Nelson  Buceta,7005,Brampton,L6V 2R7
+11,Scott  Spencer,7008,Pickering,L1W 1Y1
+11,Scott  Spencer,7009,Whitby,L1M 1E4
+12,Nelson  Buceta,7011,Milton,L9T 6J1
+11,Scott  Spencer,7012,Whitby,L1M 1K9
+11,Scott  Spencer,7018,Courtice,L1E 1Z3
+12,Nelson  Buceta,7020,Hamilton,L8H 5C8
+11,Scott  Spencer,7065,Whitby,L1P 1N3
+12,Nelson  Buceta,7028,Scarborough,M1C 3K8
+11,Scott  Spencer,7027,Ajax,L1T 3X3
+11,Scott  Spencer,7031,Pickering,L1V 3H8
+11,Scott  Spencer,7032,Ajax,L1Z 1H4
+12,Nelson  Buceta,7039,Old Toronto,M4J 1G8
+11,Scott  Spencer,7043,Bowmanville,L1C 4L3
+12,Nelson  Buceta,7048,Mississauga,L5M 1K7
+11,Scott  Spencer,7049,Whitby,L1N 9H5
+12,Nelson  Buceta,7067,North York,M2M 2S4
+11,Scott  Spencer,7073,Ajax,L1T 3W7
+11,Scott  Spencer,7075,Courtice,L1E 3K1
+11,Scott  Spencer,7076,Whitby,L1N 1Y6
+12,Nelson  Buceta,7089,Hamilton,L8R 2M3
+12,Nelson  Buceta,7090,Stoney creek,L8G 4L4
+12,Nelson  Buceta,7183,Scarborough,M1N 3H4
+11,Scott  Spencer,7093,Whitby,L1N 5B5
+11,Scott  Spencer,7103,Pickering,L1V 5Z9
+11,Scott  Spencer,7106,Ajax,L1T 3L4
+12,Nelson  Buceta,7109,Old University,N1G 4R3
+12,Nelson  Buceta,7110,North York,M3L 0C3
+11,Scott  Spencer,7114,Ajax,L1S 5Z5
+12,Nelson  Buceta,7118,Aurora,L4G 6R4
+12,Nelson  Buceta,7121,st. catherines,L2M 3M4
+12,Nelson  Buceta,7123,Etobicoke,M9W 3B7
+12,Nelson  Buceta,7139,Etobicoke,
+12,Nelson  Buceta,7141,Mississauga,L4X 2k8
+11,Scott  Spencer,7143,Pickering,L1X 2R7
+12,Nelson  Buceta,7145,Stoney Creek,L8E 5C6
+11,Scott  Spencer,7150,Oshawa,L1G 3Y1
+11,Scott  Spencer,7154,Ajax,L1Z 1J3
+12,Nelson  Buceta,7155,Scarborough,M1B 6B4
+11,Scott  Spencer,7166,Oshawa,L1J 1E5
+11,Scott  Spencer,7168,Uxbridge,L9P 1Z3
+11,Scott  Spencer,7169,Courtice,L1E 2E6
+11,Scott  Spencer,7171,Whitby,L1N 3L9
+11,Scott  Spencer,7177,Oshawa,L1G 8A6
+11,Scott  Spencer,7178,Whitby,L1P 1L5
+12,Nelson  Buceta,7180,Niagara,L2J 4A5
+12,Nelson  Buceta,7181,Mississauga,L5B 2X3
+11,Scott  Spencer,7241,Whitby,L1R 2T8
+11,Scott  Spencer,7305,Whitby,L1N 9A4
+12,Nelson  Buceta,7182,Brampton,L7A 3A3
+12,Nelson  Buceta,7190,Kitchener,N2N 3C3
+11,Scott  Spencer,7188,Oshawa,L1H 6V6
+11,Scott  Spencer,7189,Oshawa,L1J 6A2
+11,Scott  Spencer,7204,Courtice,L1E 1G3
+12,Nelson  Buceta,7222,Kitchener,N2M 3M8
+11,Scott  Spencer,7219,Ajax,L1S 6Z3
+12,Nelson  Buceta,7335,Hamilton,L8W 3K9
+11,Scott  Spencer,7263,Pickering,L1X 2C3
+11,Scott  Spencer,7282,Markham,L3P 2H9
+12,Nelson  Buceta,7231,Midhurst,L0L 1X1
+12,Nelson  Buceta,7193,Hamilton,L8V 3N2
+12,Nelson  Buceta,7270,Caledon,L7C 3Z7
+11,Scott  Spencer,7213,Sebright,L0K 1W0
+11,Scott  Spencer,7319,Bowmanville,L1C 4Z7
+12,Nelson  Buceta,7212,Oakville,L6M 4E3
+11,Scott  Spencer,7363,Courtice,L1E 2Y3
+12,Nelson  Buceta,7247,Hamilton,L8T 3L2
+11,Scott  Spencer,7205,Ajax,L1S 2W7
+11,Scott  Spencer,7207,Scarborough,M1E 3V7
+12,Nelson  Buceta,7210,Hamilton,L8H 4E1
+12,Nelson  Buceta,7211,Kitchener,N2G 2S8
+11,Scott  Spencer,7216,Bowmanville,L1C 0C2
+12,Nelson  Buceta,7217,Brantford,N3S 3V6
+12,Nelson  Buceta,7218,Vittoria,N0E 1W0
+12,Nelson  Buceta,7223,Hamilton,L8M 2W2
+12,Nelson  Buceta,7226,Old Toronto,M6H 3Z1
+11,Scott  Spencer,7227,Markham,L3S 3V5
+12,Nelson  Buceta,7228,Hamilton,L8M 2S3
+11,Scott  Spencer,7232,Oshawa,L1G 6P3
+12,Nelson  Buceta,7234,Burlington,L7N 3P7
+12,Nelson  Buceta,7236,Mississauga,L5J 4C6
+11,Scott  Spencer,7240,Oshawa,L1J 6G1
+11,Scott  Spencer,7243,Oshawa,L1K 2G9
+12,Nelson  Buceta,7245,Stoney Creek,L8G 2X2
+12,Nelson  Buceta,7246,Hamilton,L8H 4C6
+12,Nelson  Buceta,7248,Hamilton,L8H 2M4
+12,Nelson  Buceta,7250,Hamilton,
+11,Scott  Spencer,7251,Oshawa,L1K 2H3
+11,Scott  Spencer,7254,Ajax,L1T 4G6
+12,Nelson  Buceta,7256,Mississauga,L5N 1L4
+11,Scott  Spencer,7258,Courtice,L1E 2Y2
+12,Nelson  Buceta,7259,York,M6E 2V9
+11,Scott  Spencer,7261,Pickering,L1V 3T1
+12,Nelson  Buceta,7267,Cambridge,N1R 2W6
+12,Nelson  Buceta,7272,Georgetown,L7G 2S4
+11,Scott  Spencer,7274,Whitby,L1N 8Z6
+12,Nelson  Buceta,7279,St. Catherines,L2N 5H5
+12,Nelson  Buceta,7280,Kitchener,N2G 2Y6
+11,Scott  Spencer,7290,Oshawa,L1G 5S4
+12,Nelson  Buceta,7295,Hamilton,L8W 3H2
+12,Nelson  Buceta,7300,Waterloo,N2J 2L4
+11,Scott  Spencer,7301,Whitby,L1R 2L6
+12,Nelson  Buceta,7304,Hamilton,L8L 2G2
+11,Scott  Spencer,7306,Whitby,L1R 3B2
+11,Scott  Spencer,7310,Bowmanville,L1C 5G8
+11,Scott  Spencer,7311,Pickering,L1V 1P6
+12,Nelson  Buceta,7312,Oakville,L6J 3Z6
+12,Nelson  Buceta,7313,Hamiilton,L8T 4N5
+11,Scott  Spencer,7316,Whitby,L1N 6V7
+11,Scott  Spencer,7317,Courtice,L1E 2B5
+12,Nelson  Buceta,7318,Caledonia,
+11,Scott  Spencer,7320,Oshawa,L1K 2J3
+11,Scott  Spencer,7327,Pickering,L1X 2M7
+11,Scott  Spencer,7333,Courtice,L1E 3B6
+11,Scott  Spencer,7334,Oshawa,L1J 6K6
+12,Nelson  Buceta,7372,Kitchener,N2A 3H9
+12,Nelson  Buceta,7337,Waterloo,N2T 2S5
+12,Nelson  Buceta,7338,Guelph,N1G 3K1
+11,Scott  Spencer,7343,Ajax,L1T 3Z7
+12,Nelson  Buceta,7346,Mississauga,L5N 5B6
+12,Nelson  Buceta,7347,Mississauga,L5J 2A8
+11,Scott  Spencer,7354,Whitby,
+11,Scott  Spencer,7358,Courtice,L1E 1C1
+12,Nelson  Buceta,7361,Mississauga,L5L 4Z5
+12,Nelson  Buceta,7362,Cambridge,N1T 1J8
+12,Nelson  Buceta,7365,Guelph,N1H 4A9
+12,Nelson  Buceta,7366,Kitchener,N2H 5L1
+12,Nelson  Buceta,7367,Kitchener,N2A 1V6
+12,Nelson  Buceta,7374,Stoney Creek,L8E 2H7
+12,Nelson  Buceta,7377,Milton,L9T 5M2
+12,Nelson  Buceta,7387,Milton,L9T 7R9
+11,Scott  Spencer,7388,Pickering,ON
+12,Nelson  Buceta,7409,Etobicoke,M9C 5C3
+12,Nelson  Buceta,7476,Maple,L6A 3S6
+12,Nelson  Buceta,7402,Thornhill,ON L4J
+11,Scott  Spencer,7412,Pickering,L1V 7A6
+12,Nelson  Buceta,7416,Brampton,L6X 4B7
+11,Scott  Spencer,7424,Whitby,L1P 1S4
+11,Scott  Spencer,7425,Whitby,L1R 0J6
+12,Nelson  Buceta,7426,Etobicoke,M8Y 2N1
+12,Nelson  Buceta,7428,Waterdown,L0R 2H5
+12,Nelson  Buceta,7432,Oakville,L6L 2W1
+11,Scott  Spencer,7434,Whitby,L1N 6T2
+12,Nelson  Buceta,7438,Brantford,N3S 4B4
+12,Nelson  Buceta,7439,Dunnville,N1A 1G4
+11,Scott  Spencer,7443,Courtice,L1E 1Y5
+11,Scott  Spencer,7552,Pickering,L1V 4S8
+11,Scott  Spencer,7444,Brooklin,L1M 1N2
+11,Scott  Spencer,7445,Port Perry,L9L 1B2
+11,Scott  Spencer,7447,Vanier,L1J 2E3
+11,Scott  Spencer,7449,Brooklin,L1M 2G3
+11,Scott  Spencer,7450,Oshawa,L1J 6J5
+12,Nelson  Buceta,7456,Brantford,N3T 5L7
+12,Nelson  Buceta,7458,Mississauga,L5J 2T1
+11,Scott  Spencer,7466,Whitby,L1N 8Z6
+12,Nelson  Buceta,7469,Brampton,L6Y 4Z3
+11,Scott  Spencer,7471,Pickering,L1W 1X2
+11,Scott  Spencer,7478,Whitby,L1N 6L6
+11,Scott  Spencer,7507,Whitby,L1R 2V4
+11,Scott  Spencer,7481,Whitby,
+11,Scott  Spencer,7484,Ajax,L1T 2K9
+12,Nelson  Buceta,7489,Brantford,N3T 5L9
+11,Scott  Spencer,7506,Bowmanville,L1C 5L6
+12,Nelson  Buceta,7529,Cambridge,N3C 3A1
+12,Nelson  Buceta,7491,Mississauga,L5V 1M7
+12,Nelson  Buceta,7494,Grimsby,L3M 2Y7
+11,Scott  Spencer,7495,Ajax,L1S 7A9
+12,Nelson  Buceta,7500,Mississauga,L5H 3P6
+12,Nelson  Buceta,7501,Burlington,L7P 3R9
+11,Scott  Spencer,7521,Bowmanville,L1C 3K7
+11,Scott  Spencer,7522,Newcastle,L1B 1B8
+12,Nelson  Buceta,7525,Grimsby,L3M 4N1
+12,Nelson  Buceta,7526,Brantford,N3R 7C9
+11,Scott  Spencer,7527,Oshawa,L1G 3C9
+11,Scott  Spencer,7531,Pickering,L1W 3K6
+11,Scott  Spencer,7638,Whitby,L1N 9R8
+11,Scott  Spencer,7532,Oshawa,L1G 3V5
+12,Nelson  Buceta,7533,Cambridge,N1R 8M6
+12,Nelson  Buceta,7534,Hamilton,
+12,Nelson  Buceta,7544,Milton,L9T 3Z7
+11,Scott  Spencer,7545,Ajax,
+12,Nelson  Buceta,7551,Brampton,L6Y 2V5
+12,Nelson  Buceta,7556,Scarborough,M1K 2W3
+12,Nelson  Buceta,7557,Ajax,L1Z 1P1
+12,Nelson  Buceta,7558,Laurentian Hills,N2E 1E3
+11,Scott  Spencer,7559,Blackstock,L0B 1B0
+12,Nelson  Buceta,7568,Scarborough,M1K 2L1
+11,Scott  Spencer,7570,Bowmanville,L1C 3X4
+12,Nelson  Buceta,7572,Scarborough,M1J 1Y2
+12,Nelson  Buceta,7575,York,N0A 1R0
+12,Nelson  Buceta,7579,Mississauga,
+12,Nelson  Buceta,7580,Kitchener,N2P 1B9
+12,Nelson  Buceta,7581,Bowmanville,L1C 4S6
+11,Scott  Spencer,7584,Bowmanville,L1C 4K6
+11,Scott  Spencer,7586,Whitby,L1R 1V3
+11,Scott  Spencer,7663,Whitby,L1N 8T1
+11,Scott  Spencer,7589,Ajax,L1S 3V2
+12,Nelson  Buceta,7590,Mount Hope,L0R 1W0
+12,Nelson  Buceta,7596,Kitchener,N2G 3T5
+12,Nelson  Buceta,7597,North York,M2N 3E2
+12,Nelson  Buceta,7598,Brampton,L6W 1G8
+12,Nelson  Buceta,7601,Mississauga,L5G 3V6
+12,Nelson  Buceta,7605,Old Toronto,M6H 2Z5
+12,Nelson  Buceta,7610,Newmarket,L3Y 5E7
+11,Scott  Spencer,7618,Bowmanville,L1C 4T4
+11,Scott  Spencer,7621,Ajax,L1T 1X6
+12,Nelson  Buceta,7622,Brantford,N3T 5L9
+12,Nelson  Buceta,7625,Kitchener,
+11,Scott  Spencer,7630,Ajax,L1T 4J6
+11,Scott  Spencer,7632,Whitby,L1N 4N7
+11,Scott  Spencer,7633,Whitby,L1R 2V4
+12,Nelson  Buceta,7634,Newmarket,L3X 2G6
+12,Nelson  Buceta,7635,Hamilton,L8M 3H2
+12,Nelson  Buceta,7636,Guelph,N1G 4L4
+11,Scott  Spencer,7644,Whitby,L1R 1V3
+12,Nelson  Buceta,7652,Straffordville,N0J 1Y0
+12,Nelson  Buceta,7653,Kitchener,N2A 2E2
+12,Nelson  Buceta,7654,Hamilton,
+12,Nelson  Buceta,7655,Milton,
+12,Nelson  Buceta,7658,Burlington,L7R 2B7
+12,Nelson  Buceta,7664,Etobicoke,
+11,Scott  Spencer,7666,Whitby,L1P 1N8
+11,Scott  Spencer,7667,Pickering,L1W 3K6
+11,Scott  Spencer,7674,Whitby,L1P 1T8
+12,Nelson  Buceta,7676,Hanlon Creek,N1G 3C2
+11,Scott  Spencer,7746,Oshawa,L1K 2A4
+12,Nelson  Buceta,7721,Brampton,L6R 2J6
+11,Scott  Spencer,7690,Newcastle,L1B 1L9
+11,Scott  Spencer,7679,Bowmanville,L1C 5B7
+12,Nelson  Buceta,7680,Brampton,L6R 3K5
+12,Nelson  Buceta,7684,Bolton,L7E 1R4
+11,Scott  Spencer,7689,Oshawa,L1K 2S8
+12,Nelson  Buceta,7691,Milton,
+11,Scott  Spencer,7697,bowmanville,L1C 5G1
+12,Nelson  Buceta,7710,Guelph,M1E 2W8
+11,Scott  Spencer,7711,Oshawa,
+12,Nelson  Buceta,7715,Woodbridge,
+11,Scott  Spencer,7717,Ajax,L1T 2H8
+11,Scott  Spencer,7726,Oshawa,
+11,Scott  Spencer,7773,Courtice,L1E 3K3
+11,Scott  Spencer,7737,Oshawa,
+12,Nelson  Buceta,7727,Mississauga,L5V 2P4
+12,Nelson  Buceta,7728,Brampton,
+12,Nelson  Buceta,7729,Brampton,
+11,Scott  Spencer,7731,Whitby,
+11,Scott  Spencer,7733,Whitby,
+11,Scott  Spencer,7734,Blackstock,L0B 1B0
+12,Nelson  Buceta,7752,Milton,
+12,Nelson  Buceta,7744,Hamilton,
+12,Nelson  Buceta,7745,Scarborough,
+11,Scott  Spencer,7747,Oshawa,L1K 0C1
+12,Nelson  Buceta,7750,Mississauga,
+12,Nelson  Buceta,7753,Milton,L9T 1W5
+12,Nelson  Buceta,7754,Oakville,L6H 3W5
+12,Nelson  Buceta,7755,Newmarket,L3X 2T3
+12,Nelson  Buceta,7762,Scarborough,M1N 3H4
+12,Nelson  Buceta,7766,York,M6C 3P4
+12,Nelson  Buceta,7767,Cambridge,N1R 7Z7
+12,Nelson  Buceta,7771,Waterdown,L0R 2H6
+12,Nelson  Buceta,7772,Welland,
+11,Scott  Spencer,7777,whitby,L1R 3B2
+11,Scott  Spencer,7778,Oshawa,
+11,Scott  Spencer,7779,Oshawa,
+12,Nelson  Buceta,7781,Thornhill,L4J 9J5
+11,Scott  Spencer,7782,Whitby,L1R 1K1
+12,Nelson  Buceta,7787,Brampton,L6T 1Z4
+12,Nelson  Buceta,7788,Brantford,N3T 5L9
+11,Scott  Spencer,7790,Oshawa,L1K 2S5
+11,Scott  Spencer,7793,Oshawa,L1J 5X9
+12,Nelson  Buceta,7837,Brampton,L6Z 4V3
+11,Scott  Spencer,7802,Oshawa,
+12,Nelson  Buceta,7803,Bolton,L7E 2W6
+12,Nelson  Buceta,7805,Port Colborne,L3K 5V5
+12,Nelson  Buceta,7808,Niagara,L2H 2N4
+12,Nelson  Buceta,7812,Oakville,L6M 3S9
+11,Scott  Spencer,7819,Whitby,L1R 3G2
+11,Scott  Spencer,7826,Whitby,L1R 2P8
+12,Nelson  Buceta,7830,Thorold,L2V 5C4
+11,Scott  Spencer,7831,Kendal,L0A 1E0
+11,Scott  Spencer,7833,Oshawa,
+11,Scott  Spencer,7836,Oshawa,L1H 6X2
+12,Nelson  Buceta,7838,Waterloo,N2T 2N4
+11,Scott  Spencer,7843,Oshawa,L1J 1B6
+11,Scott  Spencer,7844,Oshawa,L1H 3L3
+11,Scott  Spencer,7845,Ajax,L1T 2K7
+12,Nelson  Buceta,7846,Cambridge,N1R 7M1
+12,Nelson  Buceta,7848,Grimsby,L3M 4M9
+12,Nelson  Buceta,7855,St Catherines,L2S 3Y4
+11,Scott  Spencer,7856,Whitby,L1R 2E4
+86,Mike  Skakich,7966,Hamilton,L8K 5L6
+12,Nelson  Buceta,7865,Port Colborne,L0S 1S0
+12,Nelson  Buceta,7877,Milton,L9T 5Y4
+12,Nelson  Buceta,7866,Hamilton,
+12,Nelson  Buceta,7869,Mississauaga,L5N 6Z8
+12,Nelson  Buceta,7874,Cambridge,N3H 5J4
+12,Nelson  Buceta,7876,Cambridge,N3C 4J5
+12,Nelson  Buceta,7889,Brampton,L6Y 1W4
+11,Scott  Spencer,7891,Oshawa,L1K 1V4
+12,Nelson  Buceta,7893,Burlington,L7L 6P1
+11,Scott  Spencer,7895,Oshawa,L1J 5L8
+11,Scott  Spencer,7899,Markham,L3P 4K6
+12,Nelson  Buceta,7901,Guelph,N1G 5E9
+12,Nelson  Buceta,7902,Milton,L9T 5Y4
+11,Scott  Spencer,7903,Bowmanville,
+12,Nelson  Buceta,7909,Old Toronto,M4L 3C6
+12,Nelson  Buceta,7910,Guelph,
+11,Scott  Spencer,7912,Oshawa,L1K 0N2
+12,Nelson  Buceta,7913,Oakville,L6M 3P3
+12,Nelson  Buceta,7915,Burlington,L7M 3B7
+11,Scott  Spencer,7916,Markham,L6B 0B7
+12,Nelson  Buceta,7918,Etobicoke,M8X 2G7
+12,Nelson  Buceta,7919,Brampton,L7A 0V9
+11,Scott  Spencer,7920,Pickering,L1V 5Y6
+11,Scott  Spencer,7989,Oshawa,L1H 6P6
+11,Scott  Spencer,7924,Scarborough,M1C 5B5
+11,Scott  Spencer,7925,Brooklin,L1M 1K2
+11,Scott  Spencer,7926,Whitby,
+11,Scott  Spencer,7927,Whitby,
+12,Nelson  Buceta,7929,Welland,L3B 3V1
+12,Nelson  Buceta,7930,Niagara Falls,L2G 5B4
+11,Scott  Spencer,7939,Bowmanville,L1C 4M1
+11,Scott  Spencer,7942,Oshawa,
+11,Scott  Spencer,7945,Port Perry,
+11,Scott  Spencer,7946,Whitby,L1P 1G2
+12,Nelson  Buceta,7947,Grimsby,L3M 4A7
+86,Mike  Skakich,7949,St Catherines,L2R 4S9
+86,Mike  Skakich,7950,St.Cathrines,L2M 6B4
+12,Nelson  Buceta,7951,Hamilton,L9B 2J6
+12,Nelson  Buceta,7955,Hamilton,L8H 4C6
+11,Scott  Spencer,7961,Ajax,L1T 4C4
+12,Nelson  Buceta,7962,Mississauga,L5J 4H1
+86,Mike  Skakich,7965,Kitchener,N2N 1K1
+86,Mike  Skakich,7967,Beamsville,L0R 1B9
+86,Mike  Skakich,7968,Woodbridge,
+11,Scott  Spencer,7970,Bowmanville,L1C 4T8
+86,Mike  Skakich,7976,Guelph,N1H 3E1
+11,Scott  Spencer,7973,Oshawa,L1H 2Y4
+11,Scott  Spencer,7974,Bowmanville,L1C 3P1
+86,Mike  Skakich,7977,Baden,N3A3N5
+86,Mike  Skakich,7978,Kitchener,N2M 4W1
+86,Mike  Skakich,7979,Richmond Hill,L4E 4L2
+12,Nelson  Buceta,7981,St Catherines,L2S 3X7
+12,Nelson  Buceta,7982,Aurora,
+11,Scott  Spencer,7984,Pickering,L1V 7H3
+12,Nelson  Buceta,7986,Waterloo,N2J 1E3
+86,Mike  Skakich,7988,Kitchener,N1N 1G2
+12,Nelson  Buceta,7990,Scarborough,M1C 2K7
+11,Scott  Spencer,7991,Whitby,L1M 2J2
+12,Nelson  Buceta,7995,Old Toronto,M4L 3A4
+90,Dan  Crothers,7998,Milton,L9T 0C6
+12,Nelson  Buceta,7999,Etobicoke,M8W 4J9
+86,Mike  Skakich,8000,Guelph,N1C 1A1
+86,Mike  Skakich,8001,Kitchener,N2B 3G2
+86,Mike  Skakich,8002,Kitchener,N2C 2L2
+90,Dan  Crothers,8004,Etobicoke,M9C 5C6
+11,Scott  Spencer,8006,Ajax,
+11,Scott  Spencer,8010,Oshawa,
+11,Scott  Spencer,8011,Oshawa,
+86,Mike  Skakich,8012,Niagara falls,L2E 6S6
+86,Mike  Skakich,8013,Niagara Falls,
+12,Nelson  Buceta,8015,Richmond Hill,L4S 1B3
+11,Scott  Spencer,8016,Oshawa,L1G 7Y3
+86,Mike  Skakich,8017,Welland,L3C 7C9
+86,Mike  Skakich,8018,Port Colborne,L3K 5V3
+86,Mike  Skakich,8019,Ancaster,L9K 1H8
+86,Mike  Skakich,8038,Puslinch,N0B 2J0
+11,Scott  Spencer,8021,Oshawa,L1J 6C7
+86,Mike  Skakich,8025,North York,M4A 1V5
+90,Dan  Crothers,8030,Brampton,L6R 2A5
+11,Scott  Spencer,8031,Bowmanville,
+90,Dan  Crothers,8032,North York,M2H 3H1
+90,Dan  Crothers,8033,Scarborough,M1E 4J2
+90,Dan  Crothers,8034,Markham,L3P 4L4
+86,Mike  Skakich,8035,Grimsby,L3M 5G9
+86,Mike  Skakich,8036,Mississauga,L5v 1n9
+11,Scott  Spencer,8039,Pickering,L1X 2E6
+90,Dan  Crothers,8040,Etobicoke,M9C 4M4
+90,Dan  Crothers,8043,Markham,L3S 3W8
+90,Dan  Crothers,8044,Markham,L3P 4C5
+12,Nelson  Buceta,8045,Guelph,N1H 3C6
+86,Mike  Skakich,8047,burlington,L7L2v2
+90,Dan  Crothers,8048,Etobicoke,M9W 2N5
+90,Dan  Crothers,8051,Guelph,N1H 6J1
+90,Dan  Crothers,8052,Kitchener,N2N 1R3
+12,Nelson  Buceta,8053,Stoney Creek,L8J 3Z7
+12,Nelson  Buceta,8054,Brampton,L6R 2W9
+86,Mike  Skakich,8055,Burlington,L7M 4K6
+86,Mike  Skakich,8056,Hamilton,L9A 5K4
+90,Dan  Crothers,8057,Guelph,N1H 4Y7
+90,Dan  Crothers,8058,Kitchener,N2N 2V1
+90,Dan  Crothers,8059,Mississuaga,L5N4P6
+11,Scott  Spencer,8060,Whitby,L1R 2K8
+12,Nelson  Buceta,8061,Guelph,N1C 1G9
+90,Dan  Crothers,8062,Cambridge,N3H 2T2
+90,Dan  Crothers,8063,Erin Mills,L5M 3S3
+86,Mike  Skakich,8064,guelph,N1E6L2
+86,Mike  Skakich,8065,Etobicoke,
+90,Dan  Crothers,8066,Mississauga,L5N6P5
+90,Dan  Crothers,8067,kitchener,N2E4G4
+12,Nelson  Buceta,8069,Cambridge,N1S 2B8
+86,Mike  Skakich,8070,Burlington,L7P 3S7
+86,Mike  Skakich,8071,Hamilton,L9C 7P7
+86,Mike  Skakich,8073,Hamilton,L8H 4Z3
+86,Mike  Skakich,8074,Hamilton,L8V3V5
+86,Mike  Skakich,8075,Hamilton,L3Z 2J1
+90,Dan  Crothers,8077,Kitchener,N2N1Z3
+86,Mike  Skakich,8078,Brampton,L6R 1K9
+12,Nelson  Buceta,8079,Etobicoke,M9V 3P1
+11,Scott  Spencer,8080,Markham,L3S 4E9
+90,Dan  Crothers,8082,Acton,L7J 1Z5
+90,Dan  Crothers,8083,Brampton,L6X 2N5
+11,Scott  Spencer,8085,Whitby,L1R 2Z1
+86,Mike  Skakich,8086,Oakville,
+86,Mike  Skakich,8087,Cambridge,N3H1N2
+90,Dan  Crothers,8088,Aurora,L4G 6L4
+11,Scott  Spencer,8089,Oshawa,NULL
+90,Dan  Crothers,8091,Guelph,M1L 1S1
+86,Mike  Skakich,8093,Welland,L3C 7H1
+12,Nelson  Buceta,8095,Waterloo,N2K 3T4
+86,Mike  Skakich,8097,Oakville,
+90,Dan  Crothers,8099,Rockwood,N0B 2K0
+86,Mike  Skakich,8100,Stoney Creek,L8G 1Y2
+86,Mike  Skakich,8101,Hamilton,
+86,Mike  Skakich,8102,Stoney Creek,L8G 1Y2
+12,Nelson  Buceta,8103,Niagara falls,L2H 1S3
+90,Dan  Crothers,8108,Mont Forest,N0G 2L3
+12,Nelson  Buceta,8111,Milton,
+86,Mike  Skakich,8112,Oakville,L6H 3H8
+11,Scott  Spencer,8117,Ajax,L1S 0A2
+86,Mike  Skakich,8118,Guelph,N1L 1K3
+86,Mike  Skakich,8119,Cambridge,N1R 1K4
+12,Nelson  Buceta,8125,St Catherines,L2S 2T7
+86,Mike  Skakich,8129,Waterford,M0E 1Y0
+90,Dan  Crothers,8130,Brampton,L7A 3G3
+12,Nelson  Buceta,8131,Guelph,N1H 1X3
+90,Dan  Crothers,8133,Hamilton,
+86,Mike  Skakich,8134,Conestogo,N0B 1N0
+86,Mike  Skakich,8135,Cambridge,
+90,Dan  Crothers,8139,Brampton,L6V 4J9
+86,Mike  Skakich,8140,Port colbourne,L3K 5V5
+86,Mike  Skakich,8143,Oakville,L6m5a7
+90,Dan  Crothers,8144,Mississauga,N5M5G6
+90,Dan  Crothers,8145,Listowel,N4W2A2
+90,Dan  Crothers,8148,Hamilton,L9C 6L2
+90,Dan  Crothers,8149,Georgetown,L7G 5J7
+90,Dan  Crothers,8150,Fergus,N1M2T8
+90,Dan  Crothers,8157,Brampton,L7A 3C8
+86,Mike  Skakich,8158,Oakville,L6H 5Y2
+86,Mike  Skakich,8159,Burlington,L7R 3S9
+90,Dan  Crothers,8160,Acton,L7J 2Y2
+102,David  Hunter,8165,Old Toronto,M6P 2S4
+90,Dan  Crothers,8163,Mississauga,L5N 3K7
+102,David  Hunter,8166,Old Toronto,M6J 3H6
+86,Mike  Skakich,8169,Hamilton,L9B 2C4
+102,David  Hunter,8313,Stouffville,L4A 7X3
+90,Dan  Crothers,8171,Oakville,L6M 4S1
+11,Scott  Spencer,8172,Pickering,L1X 2P2
+86,Mike  Skakich,8173,Cambridge,N1S 2Z9
+90,Dan  Crothers,8174,North York,M9M 2N1
+11,Scott  Spencer,8227,Pickering,L1V 6B1
+102,David  Hunter,8175,Richmond Hill,L4E 4E2
+90,Dan  Crothers,8179,Milton,
+11,Scott  Spencer,8180,Oshawa,L1G 2K9
+12,Nelson  Buceta,8181,Scarborough,M1L 1L5
+102,David  Hunter,8184,Markham,L3P 4A6
+12,Nelson  Buceta,8186,Guelph,
+86,Mike  Skakich,8312,Thorold,L2V1E3
+90,Dan  Crothers,8188,Georgetown,L7G 1N6
+86,Mike  Skakich,8189,Waterdown,L0R 2H6
+90,Dan  Crothers,8190,Mississauga,L5M 6T1
+86,Mike  Skakich,8193,Dundas,L9H 1N3
+102,David  Hunter,8194,Utopia,L0M1T0
+86,Mike  Skakich,8198,Waterloo,N2T 1A8
+86,Mike  Skakich,8199,Ayr,N0B1E0
+102,David  Hunter,8200,Brampton,L6Z 4S5
+90,Dan  Crothers,8201,Elora,N0B 1M0
+11,Scott  Spencer,8202,Courtice,L1E 1K8
+102,David  Hunter,8203,Aurora,L4G 6P4
+90,Dan  Crothers,8204,Brampton,L6R 2C1
+86,Mike  Skakich,8205,Guelph,N1L 1S4
+86,Mike  Skakich,8206,Kitchener,N2E 2P8
+12,Nelson  Buceta,8207,Niagara Falls,L2H 3E4
+86,Mike  Skakich,8208,Hamilton,L8K 3C7
+11,Scott  Spencer,8211,Courtice,L1E 2B8
+90,Dan  Crothers,8212,Kitchener,N2H1B3
+11,Scott  Spencer,8213,Whitby,L1N 8K6
+86,Mike  Skakich,8214,Cambridge,N1R4C1
+86,Mike  Skakich,8215,Ancaster,L9G 2X5
+90,Dan  Crothers,8218,Guelph,N1H 8K2
+86,Mike  Skakich,8220,Ancaster,L9G 4Y5
+102,David  Hunter,8221,Markham,L3S 2R7
+11,Scott  Spencer,8224,Bowmanville,L1C 3V6
+108,Danny  Jack,8341,Scarborough,M1B 1L5
+102,David  Hunter,8225,Scarborough,M1L 3L7
+102,David  Hunter,8229,Newmarket,L3Y 3P7
+102,David  Hunter,8230,Aurora,L1S 2Y3
+102,David  Hunter,8232,Innisfill,L9S 1X7
+86,Mike  Skakich,8334,Milton,L9T 5Z8
+11,Scott  Spencer,8234,Bowmanville,
+11,Scott  Spencer,8236,Pickering,L1V 4X3
+86,Mike  Skakich,8242,Welland,L3B 1C2
+86,Mike  Skakich,8243,Stoney Creek,L8E 3C8
+102,David  Hunter,8245,Aurora,L4G 5C7
+102,David  Hunter,8246,Woodbridge,
+12,Nelson  Buceta,8247,Guelph,N1G 2S9
+102,David  Hunter,8352,Toronto,M2R 3V1
+86,Mike  Skakich,8250,Dundas,L9H 5E2
+90,Dan  Crothers,8252,Kitchener,N2E 1J7
+90,Dan  Crothers,8256,Milton,L9T 6H1
+86,Mike  Skakich,8259,St Catherines,L2S3T7
+86,Mike  Skakich,8260,Waterdown,L8B0P8
+86,Mike  Skakich,8261,Brant,N0P 1A0
+86,Mike  Skakich,8262,Oakville,L6K 2V4
+102,David  Hunter,8363,North York,M2R3R3
+12,Nelson  Buceta,8267,Mississauga,L5B 2X3
+12,Nelson  Buceta,8268,Niagara Falls,L2G 5B4
+86,Mike  Skakich,8269,East Hespeler,N3C 4G7
+86,Mike  Skakich,8270,Kitchener,N2P1H3
+11,Scott  Spencer,8271,Whitby,L1N 8W3
+102,David  Hunter,8274,Markham,L3S3Z1
+90,Dan  Crothers,8275,Cooksville,
+86,Mike  Skakich,8277,Kitchener,N2E 3M4
+11,Scott  Spencer,8278,Whitby,L1R 2L3
+90,Dan  Crothers,8279,Cambridge,N1R 3V2
+102,David  Hunter,8282,North York,M3K 1B6
+102,David  Hunter,8283,Markham,L3S 2Z2
+12,Nelson  Buceta,8287,Old Toronto,M6N 3K2
+12,Nelson  Buceta,8365,North York,M3J 1B5
+90,Dan  Crothers,8289,Kitchener,N2M 2M8
+102,David  Hunter,8290,Old Toronto,M6N 1R2
+90,Dan  Crothers,8294,Kitchener,N2H 2X7
+102,David  Hunter,8297,North York,M3H 3V8
+86,Mike  Skakich,8298,Stoney Creek,L8E 5S9
+86,Mike  Skakich,8299,Oakville,L6H 4Z5
+86,Mike  Skakich,8300,Brantford,N3R 4J4
+108,Danny  Jack,8356,Unionville,L3R 3Y3
+102,David  Hunter,8302,North York,M9N 1S7
+102,David  Hunter,8303,Mississauga,L5W1Z2
+102,David  Hunter,8304,Markham,L3S 4E8
+12,Nelson  Buceta,8305,Cambridge,N1R5S2
+86,Mike  Skakich,8307,Cambridge,N1R 2B1
+86,Mike  Skakich,8308,Mississauga,L5M 4T3
+86,Mike  Skakich,8310,Brantford,N3R 6A5
+86,Mike  Skakich,8311,Hamilton,
+86,Mike  Skakich,8314,Kitchener,
+108,Danny  Jack,8315,Cobourg,K9A 2Y6
+108,Danny  Jack,8316,Ajax,L1T 3L1
+108,Danny  Jack,8317,Selwyn,K9J6X4
+108,Danny  Jack,8318,Thornhill,L3T 5X1
+86,Mike  Skakich,8378,St Catherines,L2T 1B5
+90,Dan  Crothers,8323,Mississauga,L5L 1C4
+108,Danny  Jack,8319,Ajax,L1S 3S8
+90,Dan  Crothers,8320,Kitchener,N2M 4S6
+12,Nelson  Buceta,8321,Mississauga,L5N 3J7
+102,David  Hunter,8322,Newmaket,L3Y 5V3
+11,Scott  Spencer,8325,Courtice,L1E 2V4
+86,Mike  Skakich,8328,Cambridge,N1R 6Z3
+86,Mike  Skakich,8329,Kitchener,N2E 2S7
+90,Dan  Crothers,8330,Brampton,L6X 4Z7
+90,Dan  Crothers,8331,Waterloo,N2V 1X9
+86,Mike  Skakich,8335,Waterdown,L8V 0K3
+90,Dan  Crothers,8336,Mississauga,L5M 6S2
+90,Dan  Crothers,8337,Rockwood,N0B 2K0
+90,Dan  Crothers,8358,Kitchener,N2B 3R8
+108,Danny  Jack,8379,Port Perry,L9L 1S1
+108,Danny  Jack,8343,Richmond Hill,L4C 8H9
+12,Nelson  Buceta,8344,Saint Jacobs,N0B 2N0
+86,Mike  Skakich,8345,Stoney Creek,L8J 1Z4
+108,Danny  Jack,8347,Newtonville,L0A 1J0
+90,Dan  Crothers,8349,Brampton,L6Y 5C9
+86,Mike  Skakich,8350,Beamsville,L0R 1B7
+86,Mike  Skakich,8354,Ancaster,L9G 2T3
+108,Danny  Jack,8361,Ajax,L1S 5W8
+86,Mike  Skakich,8359,Hamilton,L9B 2C3
+90,Dan  Crothers,8360,Guelph,N1K 1E7
+108,Danny  Jack,8364,North York,M3A3K5
+90,Dan  Crothers,8368,Guelph,N1E5P7
+86,Mike  Skakich,8369,Paris,N3L2N5
+108,Danny  Jack,8370,Scarborough,M1T1B6
+86,Mike  Skakich,8373,Hamilton,L8K3L1
+102,David  Hunter,8375,East Gwillimbury,
+102,David  Hunter,8376,Brampton,L7A 2L3
+102,David  Hunter,8377,Richmond hill,L4S 2J2
+108,Danny  Jack,8380,North York,M4A 1P2
+102,David  Hunter,8383,Scarborough,M1N 1E4
+90,Dan  Crothers,8384,Mississauga,L5V1N5
+12,Nelson  Buceta,8385,Cambridge,N3C 4M7
+12,Nelson  Buceta,8386,Cambridge,N3H 1A1
+90,Dan  Crothers,8387,Guelph,N1G 4Z9
+108,Danny  Jack,8388,Scarbrough,M1K 3K4
+102,David  Hunter,8390,Old Toronto,M6P 3T9
+108,Danny  Jack,8541,Old Toronto,M6H 1Y6
+90,Dan  Crothers,8391,Waterdown,
+102,David  Hunter,8393,Toronto,M2N 2W3
+86,Mike  Skakich,8394,St Catherines,L2M 5W1
+86,Mike  Skakich,8395,Thorold,L2V1A8
+11,Scott  Spencer,8396,Scarborough,M1X 1H2
+108,Danny  Jack,8868,Ajax,L1S 7B1
+90,Dan  Crothers,8400,Nassagaweya,L0P 1B0
+86,Mike  Skakich,8401,Hamilton,L9B 1B2
+108,Danny  Jack,8724,Oshawa,L1K 2V7
+102,David  Hunter,8405,Mississauga,L5N 6B6
+102,David  Hunter,8406,Markham,L6C 3B3
+86,Mike  Skakich,8408,Guelph,N1G 4X7
+90,Dan  Crothers,8410,Malton,L4T 3R2
+90,Dan  Crothers,8557,Etobicoke,M8W 3M8
+108,Danny  Jack,8413,Beaverton,L0K1A0
+86,Mike  Skakich,8414,Burlington,L7L 2V2
+90,Dan  Crothers,8415,Nassagaweya,N0B 2K0
+90,Dan  Crothers,8416,Burlington,L7L 4V1
+108,Danny  Jack,8471,Peterborough,K9J8C8
+11,Scott  Spencer,8436,Ajax,L1T 4H9
+11,Scott  Spencer,8499,Port Perry,
+108,Danny  Jack,8417,Old Toronto,M4E 2Z4
+86,Mike  Skakich,8518,Grimsby,L3M 4J1
+86,Mike  Skakich,8418,Stoney Creek,L8E 0E4
+86,Mike  Skakich,8419,Oakville,L6K 2A4
+90,Dan  Crothers,8424,Acton,L7J 3A9
+86,Mike  Skakich,8425,Stoney Creek,L8G 2P8
+86,Mike  Skakich,8426,Waterdown,L0R 2H3
+108,Danny  Jack,8427,Richmondhill,
+90,Dan  Crothers,8434,Etobicoke,M8X 2T8
+108,Danny  Jack,8570,Oshawa,L1J 5C7
+12,Nelson  Buceta,8435,Niagara Falls,L2G 5C6
+90,Dan  Crothers,8562,Brampton,L6P 1W4
+86,Mike  Skakich,8437,Brantford,N3R 4 B5
+86,Mike  Skakich,8438,Hamilton,L8V 3N9
+90,Dan  Crothers,8440,Kitchener,N2H 5X4
+90,Dan  Crothers,8441,Mississauga,L5R 3Z8
+90,Dan  Crothers,8455,Waterloo,N2L 4T3
+108,Danny  Jack,8452,Pickering,L1X 1X1
+12,Nelson  Buceta,8442,Ancaster,L9G 1X6
+108,Danny  Jack,8445,North York,M3A 3E6
+108,Danny  Jack,8446,North York,M3A 2H1
+11,Scott  Spencer,8448,Oshawa,L1H 1T7
+90,Dan  Crothers,8510,Mississauga,L5J 4N9
+12,Nelson  Buceta,8450,Mississauga,L5J 3N8
+12,Nelson  Buceta,8451,Guelph,N1E 5J2
+12,Nelson  Buceta,8453,Guelph,N1G 4Y9
+90,Dan  Crothers,8454,Guelph,N1H 3K6
+90,Dan  Crothers,8639,Mississauga,L5M 3X7
+86,Mike  Skakich,8520,Stoney Creek,L8J 2R3
+90,Dan  Crothers,8456,Concord,L4K 2K7
+102,David  Hunter,8457,Alcona,L9S 4Y1
+90,Dan  Crothers,8461,Etobicoke,
+90,Dan  Crothers,8462,Kitchener,N2A 1P5
+108,Danny  Jack,8464,Bowmanville,L1C 3K3
+102,David  Hunter,8467,Scarborough,M1G 2A1
+86,Mike  Skakich,8682,Hamilton,L8K 2Y1
+90,Dan  Crothers,8468,Guelph,N1H 8B7
+12,Nelson  Buceta,8470,Hamilton,L8R 3B7
+108,Danny  Jack,8927,Ajax,L1Z 1H4
+86,Mike  Skakich,8473,Cambridge,N1T 1E8
+86,Mike  Skakich,8474,Brampton,L6R 0V4
+86,Mike  Skakich,8475,Brampton,L6V 1L7
+86,Mike  Skakich,8476,Cambridge,N1T 1T8
+86,Mike  Skakich,8477,Hamilton,L8W 3B1
+12,Nelson  Buceta,8478,Toronto,M6C 1M2
+108,Danny  Jack,8484,Concord,L4K 5M5

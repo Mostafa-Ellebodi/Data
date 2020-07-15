@@ -1,0 +1,1001 @@
+id,City,"Postal Code",Windows,Doors
+7,Aurora,,0,2
+8,Toronto,M5P2X5,9,1
+33,Mississauga,,20,2
+34,Brampton,L7A3C5,0,0
+38,Mississauga,,9,0
+39,Oshawa,,8,1
+40,Maple,,0,0
+44,Etobicoke,,0,2
+48,Stouffville,,17,0
+50,Thornhill,,1,1
+54,Markham,,0,0
+55,Pickering,,0,1
+56,"Richmond Hill",,3,0
+58,Cannington,,20,0
+63,Markham,L6B1G2,0,0
+68,Ajax,,4,1
+69,Kitchener,,8,2
+71,"North York",,3,1
+72,"Port Perry",,3,0
+82,Acton,,10,0
+104,"St Catherines",,6,0
+106,Scarborough,,5,2
+107,Mississauga,,3,1
+120,"Richmond Hill",,0,0
+132,Stouffville,,16,0
+133,Norval,L0P1K0,20,0
+134,Whitby,L1R2B4,2,0
+135,Hamilton,,3,0
+143,Kitchener,,7,2
+151,Georgina,,10,1
+160,Guelph,,2,0
+161,Newmarket,,0,0
+166,Oshawa,,0,0
+168,Brampton,,2,1
+185,Woodbridge,,0,0
+187,Scarborough,M1G2G9,12,1
+190,Etobicoke,,4,2
+200,"Richmond Hill",,2,0
+201,"North York",,11,1
+203,"North York",,10,0
+205,"North York",,0,3
+209,Burlington,,10,2
+210,Etobicoke,,0,0
+213,Etobicoke,,2,0
+220,Oshawa,,2,1
+221,Brampton,,0,0
+223,Mississauga,,0,0
+233,Mississauga,,3,0
+236,Burlington,,3,0
+239,Aurora,,1,0
+240,Cambridge,,5,0
+243,Nobleton,,1,1
+246,Kitchener,,4,0
+247,Mississauga,,1,1
+248,Milton,,2,0
+250,"North York",,10,1
+251,Scarborough,,2,0
+253,Brampton,,0,0
+254,Maple,,0,0
+255,Scarborough,M1B1S6,7,1
+256,Waterloo,,5,0
+260,Scarborough,,1,0
+267,Pickering,,4,1
+270,"Holland Landing",,3,0
+271,Markham,,0,1
+272,"Richmond Hill",L4C0N1,2,1
+279,Mississauga,L5L3C4,0,1
+280,Bradford,,20,5
+281,Whitby,,0,1
+284,Milton,,1,0
+287,"Richmond Hill",,0,0
+291,Toronto,,12,2
+297,Newmarket,,15,0
+311,Thornhill,,3,0
+313,Scarborough,,7,2
+314,Scarborough,,0,2
+315,Scarborough,,12,2
+316,Mississauga,,0,0
+317,"Stoney Creek",,4,0
+318,Oshawa,,4,2
+333,Hamilton,,1,0
+344,Toronto,,4,0
+349,Toronto,,1,1
+350,Vaughan,,10,0
+352,Mississauga,,5,0
+353,Markham,,4,0
+354,Ajax,,4,1
+358,Rockwood,,3,0
+361,Mississauga,,2,0
+364,"North York",,1,0
+365,Scarborough,M1J2S3,7,0
+366,Scarborough,,0,0
+369,Markham,,0,1
+371,Guelph,,4,0
+375,Brampton,,0,0
+376,Tottenham,,8,1
+379,Oakville,,0,0
+380,Scarborough,,6,0
+382,Brampton,,0,0
+384,"Halton Hills",,0,0
+388,Aurora,L4G0G5,0,0
+389,Bowmanville,,2,1
+390,"Richmond Hill",,18,2
+395,Kitchener,,10,0
+396,Oshawa,,1,0
+400,Scarborough,,0,0
+401,Brampton,,0,0
+404,Scarborough,,2,0
+407,"Richmond Hill",,4,0
+408,Courtice,,2,1
+409,Ajax,L1S1K9,0,1
+410,Mississauga,,2,0
+415,"Richmond Hill",,0,0
+417,Toronto,,0,0
+418,Scarborough,,4,0
+419,"North York",,0,0
+420,Toronto,,6,0
+421,Maple,,1,0
+422,Thornhill,,5,0
+425,Courtice,,6,1
+428,Milton,L9T3P9,9,0
+430,Mississauga,,11,0
+431,Ajax,,5,0
+436,Scarborough,,3,0
+437,Thornhill,,12,0
+438,Etobicoke,,2,0
+439,Etobicoke,,0,0
+440,Scarborough,,2,0
+441,Oshawa,,3,0
+444,Mississauga,,20,1
+445,Markham,,16,0
+446,Georgetown,,10,0
+447,Toronto,,3,0
+449,"Richmond Hill",,6,0
+450,Milton,,3,0
+452,Markham,,0,0
+457,Milton,,0,0
+459,Ajax,,14,1
+460,Brampton,,0,0
+461,Brampton,,3,0
+462,Brampton,,2,0
+463,Scarborough,,7,0
+464,Markham,,1,0
+465,Markham,,10,0
+466,Whitby,,13,1
+469,"North York",,6,2
+472,Mississauga,,0,0
+473,Markham,,4,0
+474,Woodbridge,,6,0
+475,Mississauga,,0,2
+476,Mississauga,,16,1
+477,Mississauga,,0,0
+478,Ajax,,0,1
+481,Hamilton,,0,1
+482,Pickering,,6,0
+483,"Richmond Hill",,12,2
+484,Kitchener,,6,1
+488,Scarborough,,1,0
+490,Ajax,,9,2
+493,Woodbridge,L4L7R8,15,3
+494,"Rice Lake Bewdley",,20,1
+497,Vaughan,,20,0
+499,Mississauga,,0,0
+502,Mississauga,,8,1
+503,Scarborough,,0,0
+506,Whitby,,0,1
+519,Maple,,0,0
+521,Maple,,12,0
+522,Oshawa,,3,0
+524,"Richmond Hill",,14,1
+525,Ajax,,0,1
+526,Scarborough,,0,0
+531,Ajax,,2,0
+532,"Richmond Hill",,4,0
+533,Oshawa,,0,2
+538,Oshawa,,5,0
+539,Etobicoke,,2,0
+542,Woodbridge,L4L3J6,20,5
+543,Mississauga,,2,0
+544,Bowmanville,,9,2
+545,Bowmanville,,4,0
+551,Oakville,,17,1
+562,Scarborough,,0,1
+563,Etobicoke,,3,0
+572,Markham,,5,0
+574,Scarborough,,5,1
+575,"Richmond Hill",,0,0
+576,Thornhill,,1,0
+577,Oshawa,,1,0
+578,Pickering,,0,1
+579,"Richmond Hill",,12,1
+580,Thornhill,,20,0
+581,Brampton,,1,0
+582,Maple,,3,0
+583,"North York",,4,0
+584,Thornhill,,6,0
+585,Mississauga,,5,0
+586,"North York",,6,0
+593,NewCastle,,4,1
+595,Toronto,,4,0
+596,Whitby,,4,0
+597,Whitby,,0,0
+598,Oshawa,,9,0
+599,Courtice,,7,1
+600,Schomberg,,15,2
+601,Milton,,2,0
+603,Markham,,5,0
+604,Whitby,,5,1
+606,Scarborough,,1,1
+609,Cambridge,,3,0
+610,Scarborough,,10,0
+613,Kitchener,,7,1
+617,Scarborough,M1J1Z8,14,2
+619,Waterdown,,20,0
+625,Scarborough,,13,0
+628,Mississauga,,3,0
+629,Mississauga,,0,2
+630,"North York",,4,1
+637,Aurora,,7,0
+638,Brampton,,16,1
+639,Markham,,0,1
+643,Brampton,,6,1
+649,Pickering,L1V1N7,4,0
+650,Guelph,,2,0
+651,Mississauga,"L5V 1M1",0,0
+652,Toronto,,0,0
+654,Courtice,,7,0
+655,Oakville,,4,0
+657,"Richmond Hill",,1,0
+658,Scarborough,,1,0
+659,Guelph,"N1E 4B5",3,1
+660,Brampton,l7a1z9,10,0
+662,Toronto,,12,4
+663,"Richmond Hill",,8,0
+665,Newmarket,,6,0
+667,Georgetown,,5,0
+668,Mississauga,,0,0
+669,Brampton,,0,1
+670,"North York",,20,0
+672,"North York",,0,2
+673,"North York",,0,1
+674,Whitby,,1,1
+675,Toronto,,6,1
+677,Scarborough,,0,0
+678,Brampton,,4,1
+679,Woodbridge,,3,1
+681,Brampton,,1,1
+682,Etobicoke,,7,0
+683,Bowmanville,,1,1
+684,Cambridge,,4,0
+686,Cambridge,,12,1
+687,Cambridge,,4,0
+689,Brampton,,5,0
+692,Mississauga,,0,3
+697,Mississauga,,1,0
+698,Markham,,15,0
+699,Mississauga,,11,0
+702,Toronto,,0,0
+703,Hamilton,,14,2
+704,Hamilton,,10,1
+705,Newmarket,,2,0
+706,Newmarket,,0,1
+707,Newmarket,,1,0
+708,Newmarket,,1,0
+709,Markham,,7,1
+710,Bradford,,5,0
+712,Mississauga,,4,1
+718,Cambridge,,18,3
+719,Hamilton,,3,0
+722,Pickering,,5,1
+724,Guelph,,0,1
+727,Milton,,5,0
+729,Burlington,,4,0
+731,Etobicoke,,4,2
+732,Scarborough,,8,1
+733,Scarborough,,2,0
+734,Etobicoke,,7,2
+735,Guelph,,6,1
+736,Lindsay,,14,2
+738,Oshawa,,1,0
+740,Markham,,2,2
+741,Milton,,1,0
+751,Beemsville,,20,3
+752,Scarborough,M1E4B4,17,0
+756,Mississauga,,5,0
+757,Hamilton,,0,2
+760,Mississauga,,2,0
+761,"Richmond Hill",,4,1
+763,Guelph,,4,1
+766,Mississauga,,6,0
+774,Mississauga,,10,0
+775,Scarborough,,2,0
+776,Toronto,,12,1
+777,Whitby,,12,0
+778,Brampton,,8,3
+779,Mississauga,,20,0
+783,Scarborough,,9,1
+784,"Richmond Hill",,20,0
+785,Mississauga,,7,0
+787,Mississauga,,15,0
+788,Mississauga,,12,0
+791,Mississauga,,1,1
+792,Mississauga,,15,1
+794,Scarborough,,9,0
+795,Ajax,,8,1
+796,Toronto,,5,3
+797,Mississauga,,2,1
+798,Bradford,,14,2
+801,Toronto,,5,0
+803,Oshawa,,1,3
+808,Brampton,,0,1
+811,Brampton,,3,1
+812,Toronto,,12,0
+818,Toronto,,1,1
+819,Mississauga,,0,1
+821,Courtice,,4,1
+824,Bowmanville,L1C4V6,4,0
+825,Guelph,,15,1
+827,Mississauga,,6,0
+828,Ajax,,6,1
+829,Toronto,,5,0
+830,Toronto,,5,0
+833,Toronto,,6,3
+834,Toronto,,0,1
+835,Toronto,,0,1
+836,Scarborough,,6,0
+837,"Richmond Hill",,8,0
+839,Courtice,,0,1
+841,Guelph,,12,5
+842,Oshawa,,6,1
+843,Oshawa,,5,2
+844,"Richmond Hill",,0,0
+845,Kitchener,,13,2
+846,Burlington,,0,1
+847,Etobicoke,,6,2
+848,Hamilton,,1,0
+849,Scarborough,,8,0
+850,Scarborough,,0,1
+852,Hamilton,,0,1
+853,Toronto,,9,0
+854,Brampton,,1,0
+855,Mississauga,,0,1
+856,Mississauga,,3,0
+857,Mississauga,,1,1
+858,Mississauga,,7,0
+859,Woodbridge,,0,1
+860,Hamilton,,2,0
+861,Ajax,l1s5g3,7,1
+862,"Jacksons Point",,8,2
+865,Etobicoke,,6,0
+866,Maple,,2,0
+867,Maple,,5,1
+868,Maple,,2,1
+869,Maple,,7,1
+870,Mississauga,,9,0
+873,Whitby,,0,1
+874,Waterdown,,2,0
+875,Hamilton,,4,1
+876,Guelph,,11,0
+877,Hamilton,,11,0
+879,Kitchener,,3,2
+880,Brampton,,0,0
+882,Hamilton,,4,1
+885,Mississauga,,11,0
+887,Scarborough,,4,0
+888,Markham,,15,0
+889,Georgina,,10,1
+890,Scarborough,,15,0
+891,Windsor,,2,1
+894,Morriston,N0B2C0,6,0
+895,Mississauga,,1,2
+896,Toronto,,1,0
+899,Mississauga,,0,2
+901,Bradford,,0,0
+902,"Stony Creek",,3,1
+903,Scarborough,,2,1
+904,Westdale,,8,0
+906,Hamilton,,7,1
+907,Ancaster,,6,0
+908,Kitchener,,1,1
+909,Whitby,,14,0
+910,Belfountain,,5,2
+911,"Hamilton Mountain",,3,2
+912,Paris,,20,1
+913,Toronto,,0,2
+915,Mississauga,,20,1
+916,Mississauga,,5,2
+917,Mississauga,,10,1
+918,"North York",,0,2
+921,"North York",,9,1
+923,Toronto,M4J3B1,4,0
+924,"Richmond Hill",,20,0
+926,"Richmond Hill",,7,0
+927,"New Castle",,10,0
+928,Cambridge,,2,0
+929,Bolton,,1,1
+931,Kitchener,,19,1
+932,Brantford,,18,3
+935,Mississauga,"L5K 2N5",5,2
+936,Ajax,,2,0
+937,Scarborough,,16,3
+938,Hamilton,,1,0
+939,Guelph,,8,2
+941,Milton,,4,0
+942,Oakville,,1,0
+943,Oakville,,0,2
+944,"Puslinch Lake",,3,1
+945,Caledon,,5,0
+946,Scarborough,,15,0
+948,Cambridge,,4,0
+950,Brampton,,4,0
+951,Georgina,"L40 1R0",0,2
+952,"East York",,4,1
+953,Brampton,,3,0
+956,Toronto,,2,0
+957,Cambridge,,1,1
+958,Hamilton,,2,1
+960,Scarborough,,20,1
+961,"North York",,1,2
+964,Kitchener,,9,3
+965,Stouffville,,0,0
+967,Weston,,1,1
+968,Whitby,,4,0
+970,Pickering,,20,2
+972,Ayr,,2,1
+973,"Richmond Hill",,20,2
+974,Toronto,,2,0
+977,"Stoney Creek",,1,2
+978,Cambridge,,1,0
+980,Cambridge,,5,0
+982,Cambridge,,5,0
+986,Newmarket,,6,0
+989,Milton,L9T8C3,9,3
+992,Bradford,,4,0
+993,Bradford,,6,0
+994,Whitby,,13,0
+997,"Richmond Hill",,9,0
+998,Hamilton,,6,0
+999,Kitchener,,6,0
+1000,Woodbridge,,6,0
+1001,Woodbridge,,3,0
+1004,Mississauga,,1,0
+1014,Mississauga,,1,0
+1015,Burlington,,1,0
+1022,Hamilton,,20,0
+1025,Hamilton,,4,0
+1026,Scarborough,,4,0
+1027,Tottenham,,20,5
+1031,Whitby,,3,0
+1033,Bolton,,3,0
+1034,Mississauga,,1,1
+1035,Mississauga,,0,0
+1036,Waterloo,,2,0
+1037,Ajax,,3,0
+1038,Nobleton,,20,0
+1039,"Richmond Hill",,3,0
+1040,"Richmond Hill",,6,0
+1041,Mississauga,,10,1
+1042,Toronto,,8,2
+1044,Thornhill,,2,0
+1046,Guelph,,0,1
+1047,Scarborough,,1,0
+1049,Scarborough,,0,1
+1050,Brooklyn,,8,3
+1052,Hamilton,,4,0
+1055,Guelph,,10,0
+1057,Guelph,,12,0
+1061,Vaughan,,4,1
+1064,Etobicoke,,4,1
+1065,Hamilton,,6,0
+1066,Toronto,,3,0
+1067,Uxbridge,,10,1
+1068,Oakville,,0,1
+1069,Milton,,2,1
+1070,Maple,,1,1
+1071,Toronto,,1,0
+1072,Guelph,,6,1
+1073,Scarborough,,11,1
+1075,"North York",,5,0
+1076,Scarborough,,6,0
+1078,"North York",,0,0
+1079,"North York",,20,0
+1082,Thornhill,,9,3
+1083,Midhurst,,20,0
+1084,Toronto,,6,1
+1087,London,,20,0
+1088,Newmarket,,5,0
+1089,Scarborough,,4,0
+1091,Bolton,,2,0
+1095,Oshawa,,20,0
+1096,Guelph,,1,2
+1098,Woodbridge,,16,1
+1099,Hamilton,,5,2
+1100,Mississauga,,7,3
+1101,Brampton,,3,0
+1105,Guelph,"N1G 3H3",17,0
+1107,Hamilton,,3,0
+1111,Hamilton,,1,0
+1112,Barrie,,15,0
+1116,Mississauga,,10,0
+1121,Kitchener,,5,0
+1122,Pickering,,20,2
+1125,Scarborough,,7,0
+1127,Brampton,,0,0
+1128,Cambridge,,2,0
+1129,Guelph,,13,1
+1130,Bolton,,3,0
+1131,Whitby,,15,1
+1132,Bradford,,8,0
+1133,Ajax,,10,0
+1134,toronto,,0,2
+1143,Oakville,,0,0
+1144,Scarborough,,11,1
+1145,Woodbridge,,2,0
+1148,Pickering,,20,3
+1150,Burlington,,2,0
+1151,Bowmanville,,2,0
+1153,Kleinburg,,6,0
+1154,"North York",,0,0
+1156,Guelph,,3,1
+1157,Burlington,,4,0
+1158,Milton,,4,0
+1160,Thornhill,,0,0
+1161,Orono,,7,3
+1162,Aurora,,0,4
+1163,Toronto,,3,1
+1164,Ajax,,8,0
+1167,Hamilton,L9B1J7,10,1
+1168,Stouffville,,0,0
+1170,Ajax,,4,3
+1172,Toronto,,7,0
+1173,Etobicoke,,1,0
+1178,Oakville,,2,0
+1179,Mississauga,,20,1
+1181,Mississauga,,6,0
+1185,Guelph,,6,1
+1186,Oshawa,,0,0
+1188,Mississauga,,2,0
+1189,Toronto,,4,1
+1192,Oakville,,0,0
+1193,Maple,,15,0
+1195,Ajax,,2,0
+1196,Mississauga,,6,0
+1197,Maple,,2,1
+1198,Scarborough,,1,0
+1199,Mississauga,,9,1
+1200,Markham,,8,2
+1202,Brampton,,6,0
+1203,Pickering,,7,0
+1204,Oshawa,,0,1
+1205,Scarborough,,8,0
+1209,Whitby,"L1N 7G1",5,0
+1211,Bradford,,0,0
+1212,Mississauga,,20,1
+1219,Aurora,,1,0
+1220,Etobicoke,,3,0
+1221,Oakville,,0,0
+1222,Toronto,,2,0
+1223,Mississauga,,3,1
+1224,Markham,,5,0
+1225,Cambridge,,1,1
+1226,Milton,,0,0
+1227,Orangeville,,14,0
+1228,Oshawa,,0,0
+1230,Malton,,3,0
+1232,Brampton,,4,0
+1235,Scarborough,,9,1
+1238,Guelph,,0,2
+1239,Bowmanville,,9,2
+1240,Waterloo,,2,0
+1242,Oshawa,,3,0
+1243,Cambridge,,3,1
+1248,Scarborough,,3,1
+1250,Waterloo,,0,3
+1251,Markham,,3,1
+1252,Hamilton,,11,1
+1256,Oakville,,3,0
+1258,Hamilton,,7,0
+1261,Aurora,,4,0
+1262,Maple,,1,0
+1263,Newmarket,,0,0
+1264,Whitby,,0,0
+1265,Whitbey,"L1N 5Z2",1,0
+1269,Whitby,,0,0
+1271,Thornhill,,0,0
+1273,Toronto,,13,0
+1274,Mississauga,,0,3
+1278,Aurora,,6,0
+1279,Moffat/Puslinch,,20,3
+1281,Pickering,,18,3
+1282,Hamilton,,3,0
+1285,Toronto,,5,0
+1287,Guelph,,4,0
+1288,Brampton,,11,0
+1289,Courtice,,7,1
+1290,Burlington,"L7M 3X9",6,1
+1294,Courtice,,3,0
+1295,Cambridge,,3,0
+1297,Mississauga,,2,0
+1298,Mississauga,,3,1
+1299,Thornhill,,2,0
+1300,Toronto,,4,0
+1301,Hamilton,,8,0
+1303,Burlington,,5,0
+1304,Markham,,2,1
+1306,Pickering,,2,1
+1310,Courtice,,0,1
+1311,Toronto,,0,1
+1313,Pickering,,12,0
+1314,"North York",,4,0
+1315,"North York",,1,0
+1316,Markham,,3,0
+1317,Ajax,,0,0
+1318,Burlington,"L7M 3A6",6,1
+1320,Newmarket,,0,0
+1321,Scarborough,,0,2
+1322,Toronto,,3,1
+1323,Guelph,,5,0
+1326,Oshawa,,0,0
+1329,Toronto,"M6P 2R3",20,0
+1330,Toronto,,4,0
+1331,Whitby,,20,2
+1332,Etobicoke,,2,0
+1333,Mississauga,,8,0
+1337,Ajax,,18,0
+1341,Stouffville,,8,3
+1343,Brampton,,17,1
+1344,Mississauga,,0,1
+1346,"North York",,7,0
+1348,Brampton,,10,0
+1349,Scarborough,,15,0
+1350,Scarborough,,1,1
+1351,Scarborough,,0,1
+1352,Etobicoke,,2,2
+1353,Toronto,,5,1
+1356,Bolton,,7,0
+1360,Burlington,,14,1
+1361,Scarborough,M1e3g5,11,1
+1365,Kitchener,,10,0
+1366,Markham,,2,0
+1367,Pickering,,3,1
+1369,Toronto,,6,0
+1372,Mississauga,,2,0
+1373,Mississauga,"L5N 8B5",4,0
+1375,Mississauga,,3,0
+1376,Mississauga,,0,0
+1378,"Holland Landing",,3,3
+1380,Thornhill,,11,0
+1381,"Richmond hill","L4S 2R5",9,0
+1385,Pickering,,0,0
+1392,Markham,,0,2
+1397,Toronto,,2,0
+1401,Etobicoke,,4,2
+1403,Ancaster,,19,0
+1408,Scarborough,,3,0
+1411,Toronto,,10,0
+1413,Moffat,,8,0
+1418,Milton,,3,0
+1423,Cambridge,,15,0
+1424,"North York",,1,1
+1425,Waterloo,,7,0
+1426,Lakefield,,0,0
+1428,Toronto,,3,1
+1433,Oshawa,L1H6R3,1,0
+1437,Kitchener,,10,0
+1438,Hamilton,,2,0
+1440,Brampton,,3,1
+1441,Toronto,,15,0
+1443,Newmarket,"l3y 4j2",6,0
+1444,Toronto,,5,0
+1445,Mississauga,,16,1
+1446,Toronto,,1,1
+1447,Kitchener,,0,1
+1451,Toronto,,2,0
+1452,Oshawa,,3,0
+1453,Etobicoke,,8,0
+1456,Fergus,,10,0
+1460,Mississauga,,4,1
+1463,Woodbridge,"L4L 5H2",13,0
+1467,Markham,,0,0
+1468,Brampton,,16,0
+1469,Mississauga,,0,0
+1470,Oakville,,0,0
+1472,Oshawa,,0,0
+1473,Maple,,0,0
+1476,Oakville,,0,0
+1477,Pickering,,10,0
+1478,Scarborough,,6,1
+1479,Whitby,,10,0
+1480,Guelph,,1,1
+1482,Oakville,,0,0
+1483,Pickering,,3,0
+1485,Toronto,,4,1
+1486,Scarborough,,3,0
+1488,Brampton,,2,0
+1489,Burlington,,6,0
+1490,Dundas,,13,0
+1491,Bowmanville,,9,1
+1492,Oshawa,,3,1
+1493,Mississauga,,10,1
+1494,Hamilton,,5,0
+1495,"Caistor Centre",,18,0
+1496,Brampton,,5,1
+1497,Uxbridge,,1,0
+1499,Campbellville,,20,1
+1500,Kitchener,,5,0
+1501,Milton,,1,1
+1502,Scarborough,,12,0
+1504,Ajax,,0,0
+1505,Oshawa,"L1G 5X2",2,0
+1506,Hamilton,"L9H 7G7",14,5
+1507,Brampton,,0,1
+1508,Toronto,,8,0
+1509,Toronto,,0,1
+1510,Bradford,,7,1
+1512,Hamilton,,3,0
+1513,Oakville,,0,0
+1514,Whitby,,0,0
+1515,"Indian River",K0L2B0,10,2
+1516,Guelph,,7,0
+1517,Kitchener,"n2n 3n2",0,1
+1518,Mississauga,,2,2
+1519,Hamilton,"l8n 1r7",10,2
+1522,Scarborough,"m1l 1a1",2,0
+1523,Waterloo,,6,1
+1524,Keswick,,12,1
+1525,Scarborough,,0,1
+1526,"North York",,0,1
+1527,Newmarket,,0,0
+1528,Hamilton,"l8h 2b3",7,0
+1531,Kitchener,,2,0
+1532,Scarborough,,5,0
+1533,Courtice,,4,2
+1534,Brampton,,0,0
+1536,Cambridge,,2,0
+1537,Bowmanville,,0,0
+1538,Hamilton,,12,2
+1540,Hamilton,,3,0
+1541,Oakville,,5,1
+1542,Peterborough,,1,0
+1545,Dundas,,11,1
+1546,Newmarket,,20,0
+1547,Hamilton,,9,1
+1548,Keswick,,10,1
+1549,Milton,,10,2
+1550,Mississauga,,10,1
+1551,Etobicoke,,7,0
+1552,Burlington,"l7l 6x6",20,1
+1554,Pickering,,1,0
+1555,Hamilton,"L0R 1K0",3,0
+1556,Brampton,,20,0
+1558,Toronto,,3,0
+1559,Mississauga,,0,1
+1560,Uxbridge,,10,0
+1561,Mississauga,,1,0
+1562,Waterloo,,6,1
+1563,Toronto,,4,1
+1564,Oakville,,0,1
+1565,Guelph,,16,0
+1566,Brampton,,8,0
+1567,Mississauga,,0,1
+1568,Brampton,,0,1
+1569,Brampton,,10,0
+1570,Brampton,,2,0
+1571,Woodbridge,,3,0
+1572,Toronto,,0,0
+1573,"Richmond Hill",,0,0
+1574,Newmarket,,10,2
+1575,Brampton,,9,1
+1576,Vaughan,,5,0
+1577,"Richmond Hill",,20,0
+1578,Etobicoke,,1,0
+1579,Brampton,,8,2
+1580,Brampton,,10,0
+1582,"Richmond Hill",,0,1
+1583,Milton,,8,1
+1584,Brampton,,0,0
+1585,Scarborough,,3,1
+1586,Newmarket,,0,0
+1588,Brampton,,1,0
+1589,Markham,,0,0
+1590,Waterloo,,2,0
+1591,Waterloo,,3,0
+1592,Markham,,0,0
+1593,Brampton,,0,0
+1594,Pickering,,10,2
+1595,Markham,,4,0
+1596,"North York",,5,2
+1597,Mississauga,,3,1
+1599,unknown,,0,1
+1601,Markham,,2,0
+1602,Scarborough,,5,0
+1603,Toronto,,0,2
+1605,Mississauga,,20,5
+1606,Oshawa,,5,1
+1607,Keswick,,4,0
+1609,Pickering,,4,0
+1610,Maple,,3,0
+1611,Mississauga,,5,0
+1613,Woodbridge,"L4L 5H2",0,0
+1614,Newmarket,,1,0
+1616,Guelph,,4,1
+1617,Oakville,,20,0
+1618,Milton,,2,0
+1619,Woodbridge,,1,0
+1620,Caledon,,15,1
+1621,Scarborough,,0,0
+1622,Milton,,0,0
+1623,Ajax,"L1Z 1H1",8,1
+1624,Burlington,,0,0
+1625,Bolton,,13,1
+1626,"Richmond hill",,0,0
+1627,"Little Britain","k0m 2c0",7,0
+1628,Toronto,,5,2
+1629,Scarborough,,0,1
+1630,Etobicoke,,13,0
+1631,Pickering,,10,0
+1632,"Port Hope",,8,0
+1633,Kitchener,"N2C 1Z4",5,0
+1634,Scarborough,,2,0
+1635,Toronto,,4,0
+1636,Thornhill,,3,0
+1637,Scarborough,,0,1
+1639,Oakville,,4,0
+1640,Brampton,,0,0
+1641,Scarborough,,9,0
+1642,Milton,,8,0
+1643,Milton,,0,0
+1644,Hamilton,,10,0
+1645,Ajax,,4,2
+1646,Cambridge,,3,0
+1647,Burlington,,4,1
+1648,Maple,,11,0
+1649,Oshawa,,5,0
+1650,Ajax,,0,1
+1651,Oshawa,,0,1
+1652,Brooklin,,0,0
+1653,Kitchener,,6,0
+1654,Hamilton,,4,0
+1655,Scarborough,,6,2
+1656,"Richmond Hill",,18,0
+1657,Cambridge,,20,1
+1658,Pickering,"l1x 2l5",18,1
+1659,Thornhill,,0,1
+1660,Brampton,,0,0
+1661,Whitby,,0,0
+1662,Guelph,,8,2
+1663,Pickering,,2,2
+1664,Vaughan,,0,1
+1665,Woodbridge,,20,2
+1666,Brampton,,20,2
+1667,Cambridge,,19,2
+1668,Etobicoke,,14,2
+1669,Mississauga,,0,1
+1670,Cobourg,,1,0
+1671,Cambridge,,7,2
+1672,Hamilton,"L8W 2N9",9,0
+1674,Scarborough,,1,1
+1675,Pickering,,3,1
+1676,Newmarket,"L3X 1Z3",20,2
+1677,Scarborough,,2,1
+1678,Markham,,6,1
+1679,Thornhill,"L4J 8R6",3,1
+1680,Brampton,,0,1
+1681,Brampton,,9,1
+1683,"Richmond Hill",,6,0
+1684,Scarborough,,4,2
+1685,"North York","M3H 1R9",1,1
+1686,Markham,,0,1
+1687,Maple,,0,1
+1688,Ajax,"l1t 3a6",10,0
+1689,Hamilton,"L9A 5A9",2,1
+1691,Scarborough,,0,0
+1692,Pickering,L1V6L6,0,1
+1693,Whitby,"L1R 1G1",10,1
+1694,Courtice,,1,0
+1695,Scarborough,"M6A 2P2",6,0
+1696,Oshawa,,0,2
+1697,Vaughn,,0,0
+1698,Brampton,,17,2
+1699,Scarborough,"M1G 2G9",12,1
+1700,Toronto,,4,0
+1701,Pickering,,10,0
+1702,Scarborough,"M1B 1C1",0,2
+1703,Burlington,,6,0
+1704,Aurora,,7,0
+1705,Etobicoke,,0,0
+1707,Mississauga,"L5W 1M3",17,0
+1708,Hamilton,"L8H 4V5",2,2
+1709,Mississauga,,5,0
+1710,Orangeville,,10,3
+1711,Thornhill,,16,0
+1712,Milton,,0,0
+1713,Scarborough,M1H2A9,20,0
+1714,Brampton,,0,1
+1715,Oshawa,"L1G 8B4",0,0
+1717,Mississauga,"L4Z 3T2",0,1
+1718,Mississauga,,15,0
+1719,Toronto,,3,0
+1721,Markham,,15,1
+1722,Hamilton,,9,0
+1723,Peterborough,"K9J 8C5",13,1
+1724,Mississauga,,20,0
+1725,"St. Catherines",,4,0
+1727,Toronto,"M3A 1X5",8,0
+1728,Brampton,,3,1
+1729,Mississauga,"L5N 6W6",3,2
+1730,"Richmond Hill","L4E 2M6",20,1
+1731,Toronto,,0,2
+1732,Acton,,10,0
+1733,Etobicoke,,1,2
+1734,Bowmanville,,1,0
+1735,"Richmond Hill",,20,3
+1736,Etobicoke,,1,0
+1738,Hamilton,"L8T 3M4",5,2
+1739,Maple,"L6A 3S2",9,0
+1740,Oshawa,"L1H 3H8",4,1
+1741,Toronto,,0,1
+1742,Cambridge,,3,1
+1743,Mississauga,,11,2
+1744,Etobicoke,,14,2
+1745,Oakville,,14,2
+1746,Palgrave,,0,1
+1748,Mississauga,,14,5
+1749,Maple,"L6A 0C1",4,0
+1751,Stouffville,"L4A 7V9",1,0
+1752,Keswick,,0,2
+1753,Newmarket,"L3Y 1S2",0,0
+1755,Toronto,,10,2
+1756,Toronto,,2,0
+1757,Toronto,,1,0
+1758,Toronto,,5,0
+1759,Toronto,,20,5
+1760,Markham,"L6E 0M3",0,0
+1761,"Richmond Hill",,3,0
+1762,Scarborough,,7,2
+1763,Woodbridge,,10,1
+1764,Markham,,20,0
+1765,Markham,,0,1
+1766,Waterdown,,4,1
+1767,Pickering,,20,2
+1768,Brampton,,14,1
+1769,Bowmanville,,5,0
+1770,Toronto,"M6H 3T1",2,1
+1771,"Richmond Hill","L4E 0M1",4,1
+1772,Hamilton,"LAT 1P7",6,1
+1773,Mississauga,"L4W 2X8",1,0
+1774,Toronto,"M4E 1G2",2,0
+1776,"North York",,13,2
+1777,Toronto,,6,1
+1778,Burlington,,0,0
+1779,Milton,,20,0
+1780,Scarborough,,10,3
+1781,Campbellford,,15,3
+1782,Aurora,,15,3
+1783,Pickering,,0,1
+1784,Brampton,,0,1
+1786,Brampton,,20,0
+1787,Courtice,,10,2
+1788,Toronto,,3,2
+1789,Etobicoke,,20,5
+1790,Peterborough,,10,1
+1791,Mississauga,,20,1
+1792,Oakville,,0,0
+1793,Toronto,,3,1
+1794,Mississauga,,0,0
+1795,Kitchener,,20,0
+1796,Bradford,,0,2
+1797,Thornhill,,6,0
+1798,"Richmond Hill",,3,1
+1799,Toronto,,0,0
+1800,Scarborough,,0,0
+1801,Guelph,,4,0
+1802,Oakville,"L6H 7J8",1,1
+1803,Newmarket,,6,0
+1805,Bowmanville,,6,0
+1806,Hamilton,,6,0
+1807,Bowmanville,,0,0
+1808,Toronto,,4,2
+1809,Toronto,,2,0
+1810,Oshawa,,8,0
+1811,Hamilton,,9,1
+1812,Pickering,,15,1
+1813,Orangeville,,20,2
+1814,Hamilton,,12,0
+1815,Ajax,,0,1
+1816,Etobicoke,,4,0
+1818,"North York",,10,2
+1819,Toronto,,3,0
+1820,Toronto,,0,1
+1822,Woodbridge,,14,0
+1823,"North York",,14,2
+1824,Mississauga,,4,0
+1825,Stouffville,,1,0
+1826,Brampton,"L6Y 4X6",8,1
+1827,Guelph,"n1g 4p9",4,0
+1828,Toronto,,0,2
+1829,"Richmond Hill",,8,0
+1830,Klienburg,L0J1C0,6,5
+1831,"North York","M9L 1A7",0,0
